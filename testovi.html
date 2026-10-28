@@ -28,13 +28,16 @@
       <section class="test-selector">
         <h2>Тестови</h2>
         <p>Изберете една од 41 различни варијации или оставете среќата да избере. Секој тест содржи 31 прашање.</p>
-        <button id="randomTest" class="random-test-button" type="button">
-          <span aria-hidden="true">✦</span>
-          Избери случаен тест
-          <span class="random-test-arrow" aria-hidden="true">↗</span>
-        </button>
-        <div class="test-card-grid" aria-label="Изберете тест">
-        </div>
+        <section class="test-category" data-category="Б" aria-labelledby="category-b-title">
+          <h3 id="category-b-title">Категорија „Б“ – автомобил</h3>
+          <button id="randomTest" class="random-test-button" type="button">
+            <span aria-hidden="true">✦</span>
+            Избери случаен тест
+            <span class="random-test-arrow" aria-hidden="true">↗</span>
+          </button>
+          <div class="test-card-grid" aria-label="Тестови за категорија Б">
+          </div>
+        </section>
         <a class="test-selector-back" href="index.html">Назад на почетна</a>
       </section>
     </main>

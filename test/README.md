@@ -7,12 +7,12 @@ reference images.
 ## Practice test
 
 Choose a numbered test or the random-test button from the **Тестови** page.
-Each numbered test uses a fixed, repeatable question set sampled from the
-category sequence in the answer-key reference below. Every variation has its own
-button color and shape. The questions are sampled from the theory data, so these
-are practice variations, not reconstructions of specific archived tests.
-Answers can be entered and reviewed with the question buttons; the score is
-shown after finishing.
+Each numbered test uses a fixed, repeatable set of 31 questions sampled only
+from questions tagged for driving licence category **Б** (car). Every variation
+has its own button color and shape. The questions are sampled from the theory
+data, so these are practice variations, not reconstructions of specific
+archived tests. Answers can be entered and reviewed with the question buttons;
+the score is shown after finishing.
 
 ## Theory JSON files
 
@@ -36,6 +36,9 @@ category metadata and filenames used by the Theory page.
 | L | 386–424+ | `L-general-traffic-knowledge.json` | General knowledge: law, alcohol, and definitions (multiple choice, 3–4 options) |
 
 ## Answer key shown in the reference image
+
+The answer-key sequence below describes the supplied reference image, not the
+current category-„Б“ practice-test selection.
 
 | Test question | Category answer |
 | ---: | --- |

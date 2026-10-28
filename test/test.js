@@ -1,9 +1,6 @@
 (function () {
-  var questionCategories = [
-    "A", "B", "C", "I", "I", "E", "E", "E", "E", "F", "F",
-    "G", "H", "I", "K", "I", "K", "K", "I", "K", "J",
-    "L", "L", "L", "L", "L", "L", "L", "L", "L", "L",
-  ];
+  var licenceCategory = "Б";
+  var questionsPerTest = 31;
   var testId = Number(new URLSearchParams(window.location.search).get("test"));
   if (!Number.isInteger(testId) || testId < 1 || testId > 41) testId = 1;
   var selectedButtonTheme = window.TEST_THEMES[testId - 1];
@@ -32,7 +29,7 @@
         return response.json();
       })
       .then(function (categories) {
-        if (!Array.isArray(categories) || categories.length < 12) {
+        if (!Array.isArray(categories) || categories.length === 0) {
           throw new Error("Списокот со категории не е во очекуваниот формат.");
         }
         return Promise.all(
@@ -47,24 +44,27 @@
         });
       })
       .then(function (data) {
-        var pools = {};
+        var eligibleQuestions = [];
         var random = createRandom(testId);
-        data.categories.forEach(function (category, index) {
-          var pool = data.groups[index].slice();
-          shuffle(pool, random);
-          pools[String.fromCharCode(65 + index)] = pool;
-        });
-        questionCategories.forEach(function (letter) {
-          var pool = pools[letter];
-          if (!Array.isArray(pool) || pool.length === 0) {
-            throw new Error("Нема достапни прашања за категоријата " + letter + ".");
+        data.groups.forEach(function (group) {
+          if (!Array.isArray(group)) {
+            throw new Error("Датотеката со прашања не е во очекуваниот формат.");
           }
-          var question = pool.shift();
-          if (!question || !question.type) {
-            throw new Error("Прашањето од категоријата " + letter + " има невалиден формат.");
-          }
-          questions.push(question);
+          eligibleQuestions = eligibleQuestions.concat(
+            group.filter(function (question) {
+              return question && Array.isArray(question.categories) &&
+                question.categories.indexOf(licenceCategory) >= 0;
+            }),
+          );
         });
+        if (eligibleQuestions.length < questionsPerTest) {
+          throw new Error("Нема доволно прашања за категоријата " + licenceCategory + ".");
+        }
+        shuffle(eligibleQuestions, random);
+        questions = eligibleQuestions.slice(0, questionsPerTest);
+        if (questions.some(function (question) { return !question.type; })) {
+          throw new Error("Прашање од категоријата " + licenceCategory + " има невалиден формат.");
+        }
         status.hidden = true;
         exam.hidden = false;
         render();
