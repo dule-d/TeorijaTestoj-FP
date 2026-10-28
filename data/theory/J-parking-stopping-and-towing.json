@@ -1,0 +1,614 @@
+[
+  {
+    "index": 331,
+    "number": 332,
+    "categories": [
+      "Б"
+    ],
+    "question": "На дел од патот прикажан на сликата:",
+    "image": "assets/images/13092012 123553 1fad7a4d-11dc-4c97-a52c-c232fa7e857b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3486",
+        "text": "дозволено е наизменично паркирање",
+        "correct": false
+      },
+      {
+        "id": "3487",
+        "text": "забрането е паркирање покрај десниот и левиот раб на коловозот",
+        "correct": false
+      },
+      {
+        "id": "3488",
+        "text": "забрането е запирање и паркирање покрај десниот раб на коловозот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3488"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123553%201fad7a4d-11dc-4c97-a52c-c232fa7e857b.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 332,
+    "number": 333,
+    "categories": [
+      "Б"
+    ],
+    "question": "На дел од коловозот (прикажан на сликата), наменет за сообраќај во двете насоки, правилно е запрено односно паркирано возилото:",
+    "image": "assets/images/13092012 123605 e583a10f-908c-4d38-9892-85c61c121602.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3489",
+        "text": "со број 3",
+        "correct": false
+      },
+      {
+        "id": "3490",
+        "text": "со број 2",
+        "correct": false
+      },
+      {
+        "id": "3491",
+        "text": "со број 1",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3491"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123605%20e583a10f-908c-4d38-9892-85c61c121602.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 333,
+    "number": 334,
+    "categories": [
+      "Б"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на возилото означено со број 1, на овој дел од патот:",
+    "image": "assets/images/13092012 123703 ef5ea39d-df73-4b5d-ab7d-946627234a11.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3492",
+        "text": "правилно е паркиран, бидејки оставил простор за движење на пешаците",
+        "correct": false
+      },
+      {
+        "id": "3493",
+        "text": "смее да запира, само до 3 минути",
+        "correct": false
+      },
+      {
+        "id": "3494",
+        "text": "не смее да запира и паркира",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3494"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123703%20ef5ea39d-df73-4b5d-ab7d-946627234a11.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 334,
+    "number": 335,
+    "categories": [
+      "Б"
+    ],
+    "question": "Патничкиот автомобил (како на сликата) е паркиран на овој дел од патот:",
+    "image": "assets/images/13092012 123722 1469fc07-09c7-4b56-ae39-8c7ddf3d7e31.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3495",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "3496",
+        "text": "правилно, бидејки со десните тркала е надвор од коловозот",
+        "correct": false
+      },
+      {
+        "id": "3497",
+        "text": "непрописно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3497"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123722%201469fc07-09c7-4b56-ae39-8c7ddf3d7e31.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 335,
+    "number": 336,
+    "categories": [
+      "Б"
+    ],
+    "question": "Возачот не смее да запре или паркира возило пред и зад ознаката за автобуско стојалиште:",
+    "image": "assets/images/13092012 123735 67edffe9-74fb-476f-9bd5-2f207c74182e.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3498",
+        "text": "на оддалеченост помала од 5 метри",
+        "correct": false
+      },
+      {
+        "id": "3499",
+        "text": "на оддалеченост помала од 10 метри",
+        "correct": false
+      },
+      {
+        "id": "3500",
+        "text": "на оддалеченост помала од 15 метри",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3500"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123735%2067edffe9-74fb-476f-9bd5-2f207c74182e.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 336,
+    "number": 337,
+    "categories": [
+      "Б"
+    ],
+    "question": "При движењето наназад, возачот на возилото (прикажано на сликата) треба да дава светлосни знаци:",
+    "image": "assets/images/13092012 123747 e0b944bb-6b68-444e-aedf-c37126c50f84.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3501",
+        "text": "со левиот покажувач на правецот",
+        "correct": false
+      },
+      {
+        "id": "3502",
+        "text": "со десниот покажувач на правецот",
+        "correct": false
+      },
+      {
+        "id": "3503",
+        "text": "со двата покажувачи на правецот истовремено",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3503"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123747%20e0b944bb-6b68-444e-aedf-c37126c50f84.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 337,
+    "number": 338,
+    "categories": [
+      "Б"
+    ],
+    "question": "„Запирање на возило” е прекин на движењето на возилото на патот во траење до:",
+    "image": "assets/images/13092012 123800 3171ad42-6051-43aa-813c-83573e09f100.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3504",
+        "text": "15 минути",
+        "correct": false
+      },
+      {
+        "id": "3505",
+        "text": "5 минути",
+        "correct": false
+      },
+      {
+        "id": "3506",
+        "text": "3 минути",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3506"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123800%203171ad42-6051-43aa-813c-83573e09f100.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 338,
+    "number": 339,
+    "categories": [
+      "Б"
+    ],
+    "question": "Возачот кој е застанат на коловоз како на сликата и има намера да се движи наназад, движењето ќе го изврши:",
+    "image": "assets/images/13092012 123813 e6265df5-17a1-4efb-b17d-e96c00ff1627.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3507",
+        "text": "по левата страна од коловозот",
+        "correct": false
+      },
+      {
+        "id": "3508",
+        "text": "по онаа страна од коловозот, по која се движел дотогаш нанапред",
+        "correct": true
+      },
+      {
+        "id": "3509",
+        "text": "по десната или левата страна од коловозот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3508"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123813%20e6265df5-17a1-4efb-b17d-e96c00ff1627.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 339,
+    "number": 340,
+    "categories": [
+      "Б"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, лицето кое се превезува во просторот определен за сместување на товар во возилото:",
+    "image": "assets/images/21112012 130454 709cfce2-7202-4126-b939-4054a68bccc8.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5250",
+        "text": "прописно се превезува, бидејки е седнат на товарот",
+        "correct": false
+      },
+      {
+        "id": "5251",
+        "text": "прописно се превезува, бидејки го придржува товарот да не се растури",
+        "correct": false
+      },
+      {
+        "id": "5252",
+        "text": "непрописно се превезува на нестабилен товар, кој што ја преминува висината на товарниот сандак",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5252"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20130454%20709cfce2-7202-4126-b939-4054a68bccc8.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 340,
+    "number": 341,
+    "categories": [
+      "Б"
+    ],
+    "question": "Возачот на патничкото возило означено со број 1, на дел од патот прикажан на сликата:",
+    "image": "assets/images/21112012 130614 ac7b23ea-c6f7-4291-8197-368ece70e12c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5253",
+        "text": "смее да запре, а не смее да паркира",
+        "correct": false
+      },
+      {
+        "id": "5254",
+        "text": "не смее да запира и паркира",
+        "correct": true
+      },
+      {
+        "id": "5255",
+        "text": "не смее само да запре, а смее да паркира",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5254"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20130614%20ac7b23ea-c6f7-4291-8197-368ece70e12c.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 341,
+    "number": 342,
+    "categories": [
+      "Б"
+    ],
+    "question": "Возачот на патничкото возило, на дел од патот под мост, прикажан на сликата:",
+    "image": "assets/images/21112012 130723 483fbbf7-ff58-4fc7-8939-77d910c114ab.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5256",
+        "text": "не смее да запре или паркира со возилото",
+        "correct": true
+      },
+      {
+        "id": "5257",
+        "text": "смее да запре, но не смее да паркира со возилото",
+        "correct": false
+      },
+      {
+        "id": "5258",
+        "text": "смее да паркира со возилото, доколку патот е поширок од три метри",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5256"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20130723%20483fbbf7-ff58-4fc7-8939-77d910c114ab.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 342,
+    "number": 343,
+    "categories": [
+      "Б"
+    ],
+    "question": "Возачот на патничкото возило означено со број 1, на сообраќајната површина наменета за паркирање на возила:",
+    "image": "assets/images/21112012 130900 88e4df08-61a2-41aa-b2ab-3a606f957373.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5259",
+        "text": "правилно извршил косо паркирање со возилото",
+        "correct": false
+      },
+      {
+        "id": "5260",
+        "text": "прописно паркирал, бидејки има доволно слободни места за паркирање",
+        "correct": false
+      },
+      {
+        "id": "5261",
+        "text": "непрописно го паркирал возилото во определениот простор",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5261"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20130900%2088e4df08-61a2-41aa-b2ab-3a606f957373.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 343,
+    "number": 344,
+    "categories": [
+      "Б"
+    ],
+    "question": "На дел од јавен пат, мост или надвозник прикажан на сликата, возачот на патничкото возило:",
+    "image": "assets/images/21112012 131021 cff945ed-41ae-4536-9ca7-fa01587d0f42.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5262",
+        "text": "смее да запре, a не смее да паркира",
+        "correct": false
+      },
+      {
+        "id": "5263",
+        "text": "не смее да запира и паркира",
+        "correct": true
+      },
+      {
+        "id": "5264",
+        "text": "смее само да паркира",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5263"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20131021%20cff945ed-41ae-4536-9ca7-fa01587d0f42.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 344,
+    "number": 345,
+    "categories": [
+      "Б"
+    ],
+    "question": "Возачот\n не смее да запре или паркира возило, ако ширината на слободниот премин \nод возилото до полната надолжна линија на коловозот е:",
+    "image": "assets/images/21112012 131124 42411790-d262-4d54-ac24-9952fadae776.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5265",
+        "text": "помала од 2 метри",
+        "correct": false
+      },
+      {
+        "id": "5266",
+        "text": "помала од 2,5 метри",
+        "correct": false
+      },
+      {
+        "id": "5267",
+        "text": "помала од 3 метри",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5267"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20131124%2042411790-d262-4d54-ac24-9952fadae776.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 345,
+    "number": 346,
+    "categories": [
+      "Б"
+    ],
+    "question": "Посебниот\n знак со кој се означува запрено возило на непрегледен дел од патот \nнадвор од населено место (како на сликата) се поставува на коловозот, \nзад запреното возило:",
+    "image": "assets/images/21112012 131257 eb0f6f13-af8e-4bd2-ac5f-92f792b2d83d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5268",
+        "text": "на доволна оддалеченост, која не може да биде помала од 30 метри",
+        "correct": false
+      },
+      {
+        "id": "5269",
+        "text": "на доволна оддалеченост, која не може да биде помала од 40 метри",
+        "correct": false
+      },
+      {
+        "id": "5270",
+        "text": "на доволна оддалеченост, која не може да биде помала од 50 метри",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5270"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20131257%20eb0f6f13-af8e-4bd2-ac5f-92f792b2d83d.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 346,
+    "number": 347,
+    "categories": [
+      "Б"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачите на мотоцикли принудно се запрени на коловозот:",
+    "image": "assets/images/21112012 131406 756c8db4-eacf-4c82-99c4-a39bfd5d5ac3.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5271",
+        "text": "прописно",
+        "correct": true
+      },
+      {
+        "id": "5272",
+        "text": "непрописно на лентата за бавно движење",
+        "correct": false
+      },
+      {
+        "id": "5273",
+        "text": "непрописно",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5271"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20131406%20756c8db4-eacf-4c82-99c4-a39bfd5d5ac3.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 347,
+    "number": 348,
+    "categories": [
+      "Б"
+    ],
+    "question": "Во приклучно возило што го влече трактор, може да се превезуваат:",
+    "image": "assets/images/21112012 131511 b311bca3-5023-48cc-8dd5-8ff32647ec60.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5274",
+        "text": "до пет лица",
+        "correct": true
+      },
+      {
+        "id": "5275",
+        "text": "до седум лица",
+        "correct": false
+      },
+      {
+        "id": "5276",
+        "text": "до осум лица",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5274"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20131511%20b311bca3-5023-48cc-8dd5-8ff32647ec60.jpg",
+    "topic": "parking-stopping-and-towing"
+  },
+  {
+    "index": 348,
+    "number": 349,
+    "categories": [
+      "Б"
+    ],
+    "question": "Уредот за спојување на влечното и приклучното возило (прикажан на сликата) кај патничките автомобили, има:",
+    "image": "assets/images/21112012 131611 b7532bbd-1e17-4124-972e-f35de1b93846.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5277",
+        "text": "кукест облик",
+        "correct": false
+      },
+      {
+        "id": "5278",
+        "text": "конусен облик",
+        "correct": false
+      },
+      {
+        "id": "5279",
+        "text": "топчест облик",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5279"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20131611%20b7532bbd-1e17-4124-972e-f35de1b93846.jpg",
+    "topic": "parking-stopping-and-towing"
+  }
+]

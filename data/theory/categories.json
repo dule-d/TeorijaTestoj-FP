@@ -1,0 +1,86 @@
+[
+  {
+    "id": "road-sign-name-matching",
+    "title": "Road sign names",
+    "range": "1-25",
+    "file": "A-road-sign-name-matching.json",
+    "count": 25
+  },
+  {
+    "id": "supplementary-plates",
+    "title": "Supplementary plate meanings",
+    "range": "26-50",
+    "file": "B-supplementary-plates.json",
+    "count": 25
+  },
+  {
+    "id": "sign-groups",
+    "title": "Signs by group",
+    "range": "51-75",
+    "file": "C-sign-groups.json",
+    "count": 25
+  },
+  {
+    "id": "road-sign-identification",
+    "title": "Road sign identification",
+    "range": "76-90",
+    "file": "D-road-sign-identification.json",
+    "count": 15
+  },
+  {
+    "id": "police-signals-and-lights",
+    "title": "Police signals and traffic lights",
+    "range": "91-162",
+    "file": "E-police-signals-and-lights.json",
+    "count": 72
+  },
+  {
+    "id": "intersection-right-of-way",
+    "title": "Intersection right of way",
+    "range": "163-198",
+    "file": "F-intersection-right-of-way.json",
+    "count": 36
+  },
+  {
+    "id": "intersection-passing-order",
+    "title": "Intersection passing order",
+    "range": "199-223",
+    "file": "G-intersection-passing-order.json",
+    "count": 25
+  },
+  {
+    "id": "vehicle-routes",
+    "title": "Vehicle routes",
+    "range": "224-241",
+    "file": "H-vehicle-routes.json",
+    "count": 18
+  },
+  {
+    "id": "traffic-rules-and-situations",
+    "title": "Traffic rules and situations",
+    "range": "242-331",
+    "file": "I-traffic-rules-and-situations.json",
+    "count": 90
+  },
+  {
+    "id": "parking-stopping-and-towing",
+    "title": "Parking, stopping and towing",
+    "range": "332-349",
+    "file": "J-parking-stopping-and-towing.json",
+    "count": 18
+  },
+  {
+    "id": "traffic-rules",
+    "title": "Traffic rules",
+    "range": "350-385",
+    "file": "K-traffic-rules.json",
+    "count": 36
+  },
+  {
+    "id": "general-traffic-knowledge",
+    "title": "General knowledge: law, alcohol and definitions",
+    "range": "386+",
+    "file": "L-general-traffic-knowledge.json",
+    "count": 551
+  }
+]

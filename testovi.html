@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="mk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="assets/images/white dk logo.png" />
+    <title>Тестови - Теорија за возачка</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="test/test.css" />
+  </head>
+  <body class="testovi-page">
+    <header class="header">
+      <nav class="navbar" aria-label="Главна навигација">
+        <a class="navbar-back" href="index.html" aria-label="Назад на почетна">
+          <span aria-hidden="true">&larr;</span>
+          <span>Назад</span>
+        </a>
+        <h1>DK - Бесплатно знаење за сите ❤️</h1>
+        <div class="navbar-theme">
+          <button class="theme-button" id="themeToggle" type="button" aria-label="Промени тема">
+            <span class="theme-icon" aria-hidden="true"></span>
+            <span class="theme-name"></span>
+          </button>
+        </div>
+      </nav>
+    </header>
+    <main class="page-main">
+      <section class="test-selector">
+        <h2>Тестови</h2>
+        <p>Изберете една од 41 различни варијации или оставете среќата да избере. Секој тест содржи 31 прашање.</p>
+        <button id="randomTest" class="random-test-button" type="button">
+          <span aria-hidden="true">✦</span>
+          Избери случаен тест
+          <span class="random-test-arrow" aria-hidden="true">↗</span>
+        </button>
+        <div class="test-card-grid" aria-label="Изберете тест">
+        </div>
+        <a class="test-selector-back" href="index.html">Назад на почетна</a>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div class="footer-logo">
+        <img src="assets/images/white dk logo.png" alt="DK" />
+      </div>
+      <p class="footer-message">Бесплатно знаење за сите БЕЗ ДА СЕ ПЛАЌА</p>
+      <a class="footer-github" href="https://github.com/dule-d" target="_blank" rel="noopener noreferrer">
+        <img src="assets/images/github-logo.png" alt="" />
+        <span>GitHub</span>
+      </a>
+    </footer>
+    <script src="assets/js/site.js" defer></script>
+    <script src="test/themes.js" defer></script>
+    <script src="test/test-selector.js" defer></script>
+  </body>
+</html>

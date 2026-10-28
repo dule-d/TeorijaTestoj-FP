@@ -1,0 +1,1406 @@
+[
+  {
+    "index": 162,
+    "number": 163,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, jaс:",
+    "image": "assets/images/13092012 115615 bffc9b61-15e8-4530-8756-43f0497d582a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3237",
+        "text": "треба да го пропуштам возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "3238",
+        "text": "последен ќе ја напуштам крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3239",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3239"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115615%20bffc9b61-15e8-4530-8756-43f0497d582a.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 163,
+    "number": 164,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 115846 63cb52e8-b513-45d1-be26-91dd95231675.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3258",
+        "text": "треба да го пропуштам возилото со број 2",
+        "correct": false
+      },
+      {
+        "id": "3259",
+        "text": "треба да го пропуштам возилото со број 1",
+        "correct": true
+      },
+      {
+        "id": "3260",
+        "text": "последен ќе ја напуштам крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3259"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115846%2063cb52e8-b513-45d1-be26-91dd95231675.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 164,
+    "number": 165,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 115818 1d744775-f42f-4fc4-b8cd-6d6a8fd2b2b6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3255",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3256",
+        "text": "треба да ги пропуштам двете возила",
+        "correct": false
+      },
+      {
+        "id": "3257",
+        "text": "треба да го пропуштам само возилото со број 2",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3257"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115818%201d744775-f42f-4fc4-b8cd-6d6a8fd2b2b6.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 165,
+    "number": 166,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 115803 367184b5-718d-4eca-b65f-cb330c7a921c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3252",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3253",
+        "text": "треба да го пропуштам возилото со број 2",
+        "correct": false
+      },
+      {
+        "id": "3254",
+        "text": "треба да го пропуштам возилото со број 1",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3254"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115803%20367184b5-718d-4eca-b65f-cb330c7a921c.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 166,
+    "number": 167,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 115746 976a5f4b-4e79-4322-bcf6-a319f2615c58.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3249",
+        "text": "последен ќе ја напуштам крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3250",
+        "text": "треба да го пропуштам возилото со број 1",
+        "correct": true
+      },
+      {
+        "id": "3251",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3250"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115746%20976a5f4b-4e79-4322-bcf6-a319f2615c58.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 167,
+    "number": 168,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 115914 023b4c0b-fc01-423c-bde8-62f3e0b3c237.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3261",
+        "text": "треба да го пропуштам само возилото на полицијата",
+        "correct": false
+      },
+      {
+        "id": "3262",
+        "text": "треба да ги пропуштам двете возила",
+        "correct": false
+      },
+      {
+        "id": "3263",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3263"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115914%20023b4c0b-fc01-423c-bde8-62f3e0b3c237.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 168,
+    "number": 169,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 115931 86a27079-c056-4051-80ff-945ca08a1aa0.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3264",
+        "text": "треба да го пропуштам само возилото означено со број 1",
+        "correct": true
+      },
+      {
+        "id": "3265",
+        "text": "треба да го пропуштам возилото на полицијата и возилото означено со број 2",
+        "correct": false
+      },
+      {
+        "id": "3266",
+        "text": "прв ќе поминам на крстосницатa",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3264"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115931%2086a27079-c056-4051-80ff-945ca08a1aa0.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 169,
+    "number": 170,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 115947 41d2bc31-7fed-4c28-98f2-c0f7098541b6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3267",
+        "text": "треба да го пропуштам само возилото на полицијата со вклучено ротирачко светло",
+        "correct": true
+      },
+      {
+        "id": "3268",
+        "text": "треба да ги пропуштам двете возила",
+        "correct": false
+      },
+      {
+        "id": "3269",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3267"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20115947%2041d2bc31-7fed-4c28-98f2-c0f7098541b6.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 170,
+    "number": 171,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана на сликата, јас:",
+    "image": "assets/images/15112012 113637 f1ec24b7-7cc3-439b-b9bd-8bce882a7f91.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4979",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "4980",
+        "text": "треба да го пропуштам само возилото на полицијата",
+        "correct": false
+      },
+      {
+        "id": "4981",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4981"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20113637%20f1ec24b7-7cc3-439b-b9bd-8bce882a7f91.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 171,
+    "number": 172,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 114007 4c9f6b72-1ced-45d1-ae58-56f031aff3bf.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4982",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "4983",
+        "text": "треба да го пропуштам само возилото на полицијата со вклучени ротирачки светла",
+        "correct": true
+      },
+      {
+        "id": "4984",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4983"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20114007%204c9f6b72-1ced-45d1-ae58-56f031aff3bf.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 172,
+    "number": 173,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 114245 cf1365ed-2583-4f7e-b10f-4a0ebd712ff9.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4985",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": true
+      },
+      {
+        "id": "4986",
+        "text": "треба да го пропуштам само возилото на службата за брза помош",
+        "correct": false
+      },
+      {
+        "id": "4987",
+        "text": "треба да го пропуштам само возилото означено со број 1",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4985"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20114245%20cf1365ed-2583-4f7e-b10f-4a0ebd712ff9.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 173,
+    "number": 174,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 142231 63615096-b789-4007-ad1c-9d2c20ddf53f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4988",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "4989",
+        "text": "ќе поминам пред  возилото на полицијата",
+        "correct": false
+      },
+      {
+        "id": "4990",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4990"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20142231%2063615096-b789-4007-ad1c-9d2c20ddf53f.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 174,
+    "number": 175,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 142416 839820da-ba93-48d2-afa9-36ec8c44d938.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4991",
+        "text": "треба да ги пропуштам возилото на службата за брза помош со вклучено ротирачко светло и возилото со број 2",
+        "correct": true
+      },
+      {
+        "id": "4992",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "4993",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4991"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20142416%20839820da-ba93-48d2-afa9-36ec8c44d938.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 175,
+    "number": 176,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 142810 1380602c-ef9b-4f0b-8d86-8cda196570cb.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4994",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "4995",
+        "text": "треба да го пропуштам само патничкото возило со број 1",
+        "correct": true
+      },
+      {
+        "id": "4996",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4995"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20142810%201380602c-ef9b-4f0b-8d86-8cda196570cb.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 176,
+    "number": 177,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 143058 485a8d03-bf8a-499b-92c3-586cb0514d2a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4997",
+        "text": "треба да го пропуштам само возилото на службата за брза помош",
+        "correct": false
+      },
+      {
+        "id": "4998",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": true
+      },
+      {
+        "id": "4999",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4998"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20143058%20485a8d03-bf8a-499b-92c3-586cb0514d2a.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 177,
+    "number": 178,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 143244 b75b1392-33a4-405b-9160-2145e086d138.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5000",
+        "text": "треба да ги пропуштам возилото на службата за брза помош и возилото со број 2",
+        "correct": false
+      },
+      {
+        "id": "5001",
+        "text": "треба да го пропуштам само возилото со број 2",
+        "correct": false
+      },
+      {
+        "id": "5002",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5002"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20143244%20b75b1392-33a4-405b-9160-2145e086d138.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 178,
+    "number": 179,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 143429 e7a1ade7-22a2-425f-9dda-df240e92ef47.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5003",
+        "text": "треба да ги пропуштам возилото на службата за брза помош и возилото со број 2",
+        "correct": true
+      },
+      {
+        "id": "5004",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "5005",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5003"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20143429%20e7a1ade7-22a2-425f-9dda-df240e92ef47.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 179,
+    "number": 180,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според правилата за првенство на минување на крстосницата прикажана  на сликата, јас:",
+    "image": "assets/images/15112012 143837 2954832e-8456-471e-b2d2-7e8bf664a703.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5006",
+        "text": "треба да го пропуштам само возилото со број 2",
+        "correct": false
+      },
+      {
+        "id": "5007",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "5008",
+        "text": "треба да ги пропуштам возилото на службата за брза помош со вклучено ротирачко светло и возилото со број 1",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5008"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20143837%202954832e-8456-471e-b2d2-7e8bf664a703.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 180,
+    "number": 181,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според начинот на регулирање на сообраќајот на крстосницата како на сликата, jaс:",
+    "image": "assets/images/13092012 120013 60870fa7-bea5-4da8-96ae-3f37410bcacc.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3270",
+        "text": "ќе поминам пред комби возилото",
+        "correct": true
+      },
+      {
+        "id": "3271",
+        "text": "треба да го пропуштам комби возилото",
+        "correct": false
+      },
+      {
+        "id": "3272",
+        "text": "морам да запрам, бидејки сум на спореден пат",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3270"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120013%2060870fa7-bea5-4da8-96ae-3f37410bcacc.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 181,
+    "number": 182,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според\n ситуацијата прикажана на сликата, кога на уредот за давање на светлосни\n сообраќајни знаци е вклучено жолтото трепкаво светло, јас:",
+    "image": "assets/images/13092012 120042 e9e0b0cc-798f-4f7c-a67f-d2d257749e92.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3276",
+        "text": "ќе поминам пред автобусот",
+        "correct": false
+      },
+      {
+        "id": "3277",
+        "text": "треба да го пропуштам автобусот",
+        "correct": true
+      },
+      {
+        "id": "3278",
+        "text": "должен сум да причекам промена на светлосниот сигнал",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3277"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120042%20e9e0b0cc-798f-4f7c-a67f-d2d257749e92.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 182,
+    "number": 183,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/13092012 120057 f9dff93b-2d9e-4cfb-baa2-d3ce58f865a8.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3279",
+        "text": "ќе поминам пред комби-возилото",
+        "correct": true
+      },
+      {
+        "id": "3280",
+        "text": "треба да го пропуштам комби-возилото",
+        "correct": false
+      },
+      {
+        "id": "3281",
+        "text": "морам да запрам, бидејќи сум на спореден пат",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3279"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120057%20f9dff93b-2d9e-4cfb-baa2-d3ce58f865a8.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 183,
+    "number": 184,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според\n ситуацијата прикажана на сликата, кога на уредот за давање на светлосни\n сообраќајни знаци е вклучено жолтото трепкаво светло, јас:",
+    "image": "assets/images/13092012 120110 0bd6465d-728e-4f8a-9f78-a4666067c3e5.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3282",
+        "text": "последен ќе ја напуштам крстосницата",
+        "correct": true
+      },
+      {
+        "id": "3283",
+        "text": "треба втор да поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3284",
+        "text": "треба да го пропуштам само возилото со број 2",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3282"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120110%200bd6465d-728e-4f8a-9f78-a4666067c3e5.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 184,
+    "number": 185,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според\n ситуацијата прикажана на сликата, кога на уредот за давање на светлосни\n сообраќајни знаци е вклучено жолтото трепкаво светло, јас:",
+    "image": "assets/images/13092012 120128 e18337f0-c02b-484f-827d-a3743fb05e9c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3285",
+        "text": "последен ќе ја напуштам крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3286",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3287",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3287"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120128%20e18337f0-c02b-484f-827d-a3743fb05e9c.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 185,
+    "number": 186,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/13092012 120141 66b6e722-dc0b-444a-afab-7e90d4583698.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3288",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": true
+      },
+      {
+        "id": "3289",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "3290",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3288"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120141%2066b6e722-dc0b-444a-afab-7e90d4583698.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 186,
+    "number": 187,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според начинот на регулирање на сообраќајот на крстосница како на сликата, јас:",
+    "image": "assets/images/13092012 131331 e4dd845d-ffe2-4b98-a8a0-178749457704.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3687",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3688",
+        "text": "треба да го пропуштам возилото со број 1, а истовремено ќе поминам со возилата со број 2 и 3",
+        "correct": true
+      },
+      {
+        "id": "3689",
+        "text": "треба да ги пропуштам само возилата со број 2 и 3",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3688"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20131331%20e4dd845d-ffe2-4b98-a8a0-178749457704.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 187,
+    "number": 188,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, јас:",
+    "image": "assets/images/13092012 120219 47d0ac2e-f70a-4d11-8673-28e164891add.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3294",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3295",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3296",
+        "text": "треба да ги пропуштам само возилата со броевите 1 и 2",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3296"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120219%2047d0ac2e-f70a-4d11-8673-28e164891add.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 188,
+    "number": 189,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090002 e94166c6-afcd-48cb-98b1-c4a752e29548.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5009",
+        "text": "треба да гo пропуштам само возилото на службата за брза помош",
+        "correct": false
+      },
+      {
+        "id": "5010",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": true
+      },
+      {
+        "id": "5011",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5010"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090002%20e94166c6-afcd-48cb-98b1-c4a752e29548.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 189,
+    "number": 190,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090131 476669ca-68be-4ee6-bba4-e1ff141ce866.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5012",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "5013",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": true
+      },
+      {
+        "id": "5014",
+        "text": "треба да гo пропуштам само возилото на службата за брза помош",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5013"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090131%20476669ca-68be-4ee6-bba4-e1ff141ce866.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 190,
+    "number": 191,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090244 550babc5-8d6f-48c3-993b-9bc8addd316d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5015",
+        "text": "треба да гo пропуштам само возилото на службата за брза помош",
+        "correct": true
+      },
+      {
+        "id": "5016",
+        "text": "треба да го пропуштам само возилото со број 2",
+        "correct": false
+      },
+      {
+        "id": "5017",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5015"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090244%20550babc5-8d6f-48c3-993b-9bc8addd316d.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 191,
+    "number": 192,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090351 9cc406b5-7704-4a60-b04b-e6c891f0eb14.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5018",
+        "text": "треба да гo пропуштам само возилото на службата за брза помош",
+        "correct": false
+      },
+      {
+        "id": "5019",
+        "text": "треба да го пропуштам само мопедот",
+        "correct": false
+      },
+      {
+        "id": "5020",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5020"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090351%209cc406b5-7704-4a60-b04b-e6c891f0eb14.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 192,
+    "number": 193,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090502 4ff93148-043d-47f3-acad-f132e864244c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5021",
+        "text": "треба да го пропуштам само возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "5022",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": true
+      },
+      {
+        "id": "5023",
+        "text": "треба да гo пропуштам само возилото на службата за брза помош со вклучени ротирачки светла",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5022"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090502%204ff93148-043d-47f3-acad-f132e864244c.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 193,
+    "number": 194,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090558 7214032c-a8d1-4ca7-9c18-fb0efaf001b0.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5024",
+        "text": "треба да го пропуштам само возилото со број 2",
+        "correct": true
+      },
+      {
+        "id": "5025",
+        "text": "последен ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "5026",
+        "text": "треба да гo пропуштам само возилото на службата за брза помош",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5024"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090558%207214032c-a8d1-4ca7-9c18-fb0efaf001b0.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 194,
+    "number": 195,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090725 5192b910-6e37-445f-b364-49879f61ce96.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5027",
+        "text": "треба да го пропуштам само возилото  со број 1",
+        "correct": false
+      },
+      {
+        "id": "5028",
+        "text": "прв ќе поминам на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "5029",
+        "text": "треба да гo пропуштам само возилото на службата за брза помош со вклучено ротирачко светло",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5029"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090725%205192b910-6e37-445f-b364-49879f61ce96.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 195,
+    "number": 196,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 090908 5adde6d0-5e27-4e61-aac3-e8f058c1065b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5030",
+        "text": "треба да го пропуштам само возилото со број 2",
+        "correct": false
+      },
+      {
+        "id": "5031",
+        "text": "треба да го пропуштам само  возилото на службата за брза помош со вклучено ротирачко светло",
+        "correct": false
+      },
+      {
+        "id": "5032",
+        "text": "треба да ги пропуштам  возилото на службата за брза помош со вклучено ротирачко светло и возилото со број 2",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5032"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20090908%205adde6d0-5e27-4e61-aac3-e8f058c1065b.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 196,
+    "number": 197,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 091040 acd0a21e-32c9-47ea-8df1-371d460c667e.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5033",
+        "text": "треба да гo пропуштам само патничкото возило",
+        "correct": false
+      },
+      {
+        "id": "5034",
+        "text": "треба да ги пропуштам пешакот и патничкото возило",
+        "correct": true
+      },
+      {
+        "id": "5035",
+        "text": "треба да го пропуштам само пешакот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5034"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20091040%20acd0a21e-32c9-47ea-8df1-371d460c667e.jpg",
+    "topic": "intersection-right-of-way"
+  },
+  {
+    "index": 197,
+    "number": 198,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на регулирање на сообраќајот на крстосницата како на сликата, јас:",
+    "image": "assets/images/21112012 091144 6183e85c-c590-4653-9dc7-953d04a91064.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5036",
+        "text": "ќе поминам пред возилото кое доаѓа од спротивната насока",
+        "correct": true
+      },
+      {
+        "id": "5037",
+        "text": "треба да го пропуштам возилото кое доаѓа од спротивната насока",
+        "correct": false
+      },
+      {
+        "id": "5038",
+        "text": "треба да го пропуштам возилото, бидејки влегувам на пат означен како пат со првенство на минување",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5036"
+    ],
+    "images": [],
+    "point_value": 6,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20091144%206183e85c-c590-4653-9dc7-953d04a91064.jpg",
+    "topic": "intersection-right-of-way"
+  }
+]

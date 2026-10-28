@@ -1,0 +1,3458 @@
+[
+  {
+    "index": 241,
+    "number": 242,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Сообраќајната површина означена со број 1 (како на сликата) претставува:",
+    "image": "assets/images/13092012 120900 67d4c64a-1314-48af-997e-6faf406ed846.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3333",
+        "text": "паркинг простор",
+        "correct": false
+      },
+      {
+        "id": "3334",
+        "text": "поле за насочување на сообраќајот",
+        "correct": true
+      },
+      {
+        "id": "3335",
+        "text": "стојалиште за такси возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3334"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120900%2067d4c64a-1314-48af-997e-6faf406ed846.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 242,
+    "number": 243,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На јавен пат со коловоз за сообраќај во двете насоки со три сообраќајни ленти (како на сликата) возачите не смеат да се движат:",
+    "image": "assets/images/13092012 120914 81fa2f7e-0cb0-48fc-bada-a2a0785c697f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3336",
+        "text": "по средната сообраќајна лента",
+        "correct": false
+      },
+      {
+        "id": "3337",
+        "text": "по сообраќајната лента што се наоѓа покрај левиот раб на коловозот во правецот на движење",
+        "correct": true
+      },
+      {
+        "id": "3338",
+        "text": "по крајната десна и крајната лева сообраќајна лента во правецот на движење",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3337"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120914%2081fa2f7e-0cb0-48fc-bada-a2a0785c697f.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 243,
+    "number": 244,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата патничкиот автомобил, прописно се вклучува во сообраќај на пат, ако се движи:",
+    "image": "assets/images/13092012 120933 20e06edf-a6a8-43b3-bdcb-51f5f5e57647.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3339",
+        "text": "само во насока лево",
+        "correct": false
+      },
+      {
+        "id": "3340",
+        "text": "само во насока десно",
+        "correct": false
+      },
+      {
+        "id": "3341",
+        "text": "во насока лево и насока десно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3341"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120933%2020e06edf-a6a8-43b3-bdcb-51f5f5e57647.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 244,
+    "number": 245,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Крајната десна сообраќајна лента (како на сликата) е наменета за движење на:",
+    "image": "assets/images/13092012 120945 557cb2b1-256b-4e95-b86f-d4a098191d9a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3342",
+        "text": "товарни возила",
+        "correct": false
+      },
+      {
+        "id": "3343",
+        "text": "мопеди и моторцикли",
+        "correct": false
+      },
+      {
+        "id": "3344",
+        "text": "возила за јавен градски превоз на патници",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3344"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120945%20557cb2b1-256b-4e95-b86f-d4a098191d9a.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 245,
+    "number": 246,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "“Пешачки остров“ е сообраќајна површина прикажана на сликата означена со:",
+    "image": "assets/images/13092012 120956 a1193b0d-9364-417f-9e92-79ca3f7a9f60.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3345",
+        "text": "број 1",
+        "correct": true
+      },
+      {
+        "id": "3346",
+        "text": "број 2",
+        "correct": false
+      },
+      {
+        "id": "3347",
+        "text": "број 3",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3345"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20120956%20a1193b0d-9364-417f-9e92-79ca3f7a9f60.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 246,
+    "number": 247,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот на патничкиот автомобил (како на сликата) се наоѓа пред премин на патот преку железничка пруга:",
+    "image": "assets/images/13092012 121012 c1445f4b-3dca-4fde-b740-e86f0a53f965.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3348",
+        "text": "без браници или полубраници",
+        "correct": false
+      },
+      {
+        "id": "3349",
+        "text": "со полубраници",
+        "correct": true
+      },
+      {
+        "id": "3350",
+        "text": "со нерегулиран сообраќај",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3349"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121012%20c1445f4b-3dca-4fde-b740-e86f0a53f965.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 247,
+    "number": 248,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "За време на управување со возилото, возачот на возилото задолжително треба да ги има вклучено:",
+    "image": "assets/images/13092012 121026 b880c804-454d-4d96-a95e-ceda1f93b3e1.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3351",
+        "text": "најмалку позиционите светла",
+        "correct": false
+      },
+      {
+        "id": "3352",
+        "text": "најмалку соборените светла за осветлување на патот",
+        "correct": true
+      },
+      {
+        "id": "3353",
+        "text": "само долгите светла за осветлување на патот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3352"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121026%20b880c804-454d-4d96-a95e-ceda1f93b3e1.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 248,
+    "number": 249,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на возилото означено со број 1 кој се вклучува во сообраќај на пат \n(како на сликата), должен e да ги извести другите учесници во \nсообраќајот за својата намера:",
+    "image": "assets/images/13092012 121040 fa7d9799-5e5c-44fa-8c43-8aed9f72a0d9.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3354",
+        "text": "давајќи им знак со помош на покажувачите на правецот (трепкачи)",
+        "correct": true
+      },
+      {
+        "id": "3355",
+        "text": "со кратко вклучување на долгите светла (аблендирање)",
+        "correct": false
+      },
+      {
+        "id": "3356",
+        "text": "со звучен знак за предупредување",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3354"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121040%20fa7d9799-5e5c-44fa-8c43-8aed9f72a0d9.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 249,
+    "number": 250,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На коловозната лента прикажана на сликата, средната сообраќајна лента е наменета за сообраќај:",
+    "image": "assets/images/21112012 112809 66c0d2f1-03ad-4249-8261-acdac184013f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5100",
+        "text": "за сите возила",
+        "correct": true
+      },
+      {
+        "id": "5101",
+        "text": "исклучиво за товарни возила",
+        "correct": false
+      },
+      {
+        "id": "5102",
+        "text": "исклучиво за мотоцикли и мопеди",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5100"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20112809%2066c0d2f1-03ad-4249-8261-acdac184013f.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 250,
+    "number": 251,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според поставениот сообраќаен знак од десната страна на коловозот (како на сликата) дозволено е да продолжите да се движите:",
+    "image": "assets/images/21112012 112926 4da783bc-a8f9-4e67-90fa-b67571a8486b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5103",
+        "text": "само во насока право",
+        "correct": false
+      },
+      {
+        "id": "5104",
+        "text": "во насока лево и право",
+        "correct": false
+      },
+      {
+        "id": "5105",
+        "text": "во насока лево, право и десно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5105"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20112926%204da783bc-a8f9-4e67-90fa-b67571a8486b.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 251,
+    "number": 252,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На задната страна на возилото, треба да бидат вградени едно или две светла за возење наназад, кои даваат светлост во:",
+    "image": "assets/images/21112012 113041 dca3b500-c4f3-453c-8435-8156b84a7ea7.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5106",
+        "text": "црвена боја",
+        "correct": false
+      },
+      {
+        "id": "5107",
+        "text": "жолта боја",
+        "correct": false
+      },
+      {
+        "id": "5108",
+        "text": "бела боја",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5108"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20113041%20dca3b500-c4f3-453c-8435-8156b84a7ea7.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 252,
+    "number": 253,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според\n ситуацијата прикажана на сликата и завземената положба на возилата пред\n крстосницата, тие се престроени за движење во насока:",
+    "image": "assets/images/21112012 113204 de740aaa-71d2-41db-b28b-61aa6e0899eb.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5109",
+        "text": "право",
+        "correct": true
+      },
+      {
+        "id": "5110",
+        "text": "право и десно",
+        "correct": false
+      },
+      {
+        "id": "5111",
+        "text": "право и лево",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5109"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20113204%20de740aaa-71d2-41db-b28b-61aa6e0899eb.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 253,
+    "number": 254,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Кога\n возачот на возилото ја употребува работната сопирачка, на задната \nстрана од возилото се вклучуваат стоп светла чија светлост треба да биде\n во:",
+    "image": "assets/images/21112012 113417 ad168e3d-7892-4a85-84ef-ece123f0f370.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5112",
+        "text": "бела боја",
+        "correct": false
+      },
+      {
+        "id": "5113",
+        "text": "портокалова боја",
+        "correct": false
+      },
+      {
+        "id": "5114",
+        "text": "црвена боја",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5114"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20113417%20ad168e3d-7892-4a85-84ef-ece123f0f370.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 254,
+    "number": 255,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Десната\n сообраќајна лента сметано во правецот на движење на возилата, означена \nсо испрекинати жолти линии (како на сликата) е наменета за сообраќај на:",
+    "image": "assets/images/21112012 113611 94d2a520-1952-4230-b6d8-96d09d10077a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5115",
+        "text": "возила кои влечат приклучно возило",
+        "correct": false
+      },
+      {
+        "id": "5116",
+        "text": "товарни моторни возила",
+        "correct": false
+      },
+      {
+        "id": "5117",
+        "text": "возила на јавен градски превоз на патници",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5117"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20113611%2094d2a520-1952-4230-b6d8-96d09d10077a.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 255,
+    "number": 256,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, неправилно се движи возилото означено со:",
+    "image": "assets/images/21112012 113732 bcf0b8a5-0262-424b-8ad2-2044bea377de.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5118",
+        "text": "број 1",
+        "correct": false
+      },
+      {
+        "id": "5119",
+        "text": "број 2",
+        "correct": true
+      },
+      {
+        "id": "5120",
+        "text": "број 3",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5119"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20113732%20bcf0b8a5-0262-424b-8ad2-2044bea377de.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 256,
+    "number": 257,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на патничкото возило означено со број 1 (како на сликата), пред \nкрстосницата има завземено положба за движење во насока право:",
+    "image": "assets/images/21112012 113847 30b71884-f2ab-4715-9dbf-fd6a416c6807.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5121",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "5122",
+        "text": "правилно, бидејки сообраќајната лента ја споделува со мотоциклистот",
+        "correct": false
+      },
+      {
+        "id": "5123",
+        "text": "непрописно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5123"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20113847%2030b71884-f2ab-4715-9dbf-fd6a416c6807.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 257,
+    "number": 258,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Пешачкиот остров прикажан на сликата, може да го обиколите:",
+    "image": "assets/images/21112012 114002 9acf1a20-fbf6-4d46-a15a-cc115ed273b6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5124",
+        "text": "само од неговата лева страна",
+        "correct": false
+      },
+      {
+        "id": "5125",
+        "text": "само од неговата десна страна",
+        "correct": false
+      },
+      {
+        "id": "5126",
+        "text": "од неговата лева или десна страна",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5126"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20114002%209acf1a20-fbf6-4d46-a15a-cc115ed273b6.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 258,
+    "number": 259,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Кога на дел од патот работите се изведуваат дење, наизменичното пропуштање на возилата може да го регулираат определени лица:",
+    "image": "assets/images/21112012 114113 514510d2-15aa-490e-9587-8e566b2ed338.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5127",
+        "text": "со наизменично кревање и спуштање на црвено, односно зелено знаменце",
+        "correct": true
+      },
+      {
+        "id": "5128",
+        "text": "со помош на знаменце со коси портокалови и бели линии",
+        "correct": false
+      },
+      {
+        "id": "5129",
+        "text": "со наизменично кревање и спуштање на бело и портокалово знаменце",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5127"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20114113%20514510d2-15aa-490e-9587-8e566b2ed338.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 259,
+    "number": 260,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На сликата е претставен дел од коловоз со:",
+    "image": "assets/images/13092012 121109 ff1f1726-21e1-4155-ae53-eec579f9964c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3357",
+        "text": "една сообраќајна лента со три коловозни ленти",
+        "correct": false
+      },
+      {
+        "id": "3358",
+        "text": "една коловозна лента со три сообраќајни ленти",
+        "correct": true
+      },
+      {
+        "id": "3359",
+        "text": "две сообраќајни ленти и една лента за принудно запирање",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3358"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121109%20ff1f1726-21e1-4155-ae53-eec579f9964c.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 260,
+    "number": 261,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на возилото кој се движи по десната сообраќајна лента во правецот на \nдвижење, на коловоз наменет за сообраќај во двете насоки (како на \nсликата):",
+    "image": "assets/images/13092012 121121 e5611544-35e5-47eb-aba9-8c7d5e58f034.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3360",
+        "text": "смее да премине на паркиралиштето покрај левата страна на коловозот",
+        "correct": false
+      },
+      {
+        "id": "3361",
+        "text": "смее да премине на паркиралиштето, само доколку нема возила од спротивната насока на коловозот",
+        "correct": false
+      },
+      {
+        "id": "3362",
+        "text": "не смее да премине на паркиралиштето покрај левата страна на коловозот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3362"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121121%20e5611544-35e5-47eb-aba9-8c7d5e58f034.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 261,
+    "number": 262,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата како на сликата, возачот на патничкиот автомобил, кога се вклучува во сообраќај на пат во насока десно:",
+    "image": "assets/images/13092012 121144 b2c5b78d-3976-41d4-b068-209331c9cb8b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3363",
+        "text": "должен е да го пропушти пешакот и возилата од неговата лева страна",
+        "correct": true
+      },
+      {
+        "id": "3364",
+        "text": "должен е да го пропушти само пешакот",
+        "correct": false
+      },
+      {
+        "id": "3365",
+        "text": "должен е да ги пропушти само возилата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3363"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121144%20b2c5b78d-3976-41d4-b068-209331c9cb8b.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 262,
+    "number": 263,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Пешаците, прикажани на сликата, го минуваат коловозот:",
+    "image": "assets/images/13092012 121203 dfa94156-66fd-4cd9-a983-00bf8a63996e.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3366",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "3367",
+        "text": "непрописно",
+        "correct": true
+      },
+      {
+        "id": "3368",
+        "text": "правилно, само ако одат до автобуската постојка",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3367"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121203%20dfa94156-66fd-4cd9-a983-00bf8a63996e.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 263,
+    "number": 264,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На обележан пешачки премин, на кој сообраќајот е регулиран со светлосни сообраќајни знаци за пешаци, пешакот е должен:",
+    "image": "assets/images/13092012 121219 054f1b03-f525-46b5-9a32-5aa62313d3cc.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3369",
+        "text": "да постапува според тие знаци",
+        "correct": true
+      },
+      {
+        "id": "3370",
+        "text": "да премине само кога нема возила близу пешачкиот премин",
+        "correct": false
+      },
+      {
+        "id": "3371",
+        "text": "слободно да се движи, бидејки има првенство на минување на пешачкиот премин",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3369"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121219%20054f1b03-f525-46b5-9a32-5aa62313d3cc.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 264,
+    "number": 265,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Кога на светлосниот сообраќаен знак (како на сликата), ќе се појави црвено трепкаво светло, возачот на патничкиот автомобил:",
+    "image": "assets/images/13092012 121232 67331ab8-7c50-4024-ba75-32bb839b1530.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3372",
+        "text": "должен е да запре пред преминот",
+        "correct": true
+      },
+      {
+        "id": "3373",
+        "text": "треба да помине на преминот, пред уредот за затворање да се спушти",
+        "correct": false
+      },
+      {
+        "id": "3374",
+        "text": "треба да забрза со движењето, бидејки наидува воз кон преминот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3372"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121232%2067331ab8-7c50-4024-ba75-32bb839b1530.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 265,
+    "number": 266,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на возилото со број 1:",
+    "image": "assets/images/13092012 121246 ec1ef60d-a093-4e83-8dc7-e3f1d97c6021.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3375",
+        "text": "должен е да ги пропушти возилата кои доаѓаат од неговата лева страна",
+        "correct": true
+      },
+      {
+        "id": "3376",
+        "text": "може да продолжи со движењето, бидејки има слободна десна страна",
+        "correct": false
+      },
+      {
+        "id": "3377",
+        "text": "има првенство на минување во однос на возилата од неговата лева страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3375"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121246%20ec1ef60d-a093-4e83-8dc7-e3f1d97c6021.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 266,
+    "number": 267,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на возилото означено со број 1, кое е запрено покрај десниот раб на \nколовозот (како на сликата) при вклучување во сообраќај:",
+    "image": "assets/images/13092012 121312 eed88018-068e-4eee-86c9-1a87b9c3dafc.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3378",
+        "text": "должен е да го пропушти возилото означено со број 2 и пешаците кои преминуваат преку коловозот",
+        "correct": true
+      },
+      {
+        "id": "3379",
+        "text": "не е должен да го пропушти возилото со број 2 и пешаците кои преминуваат преку коловозот",
+        "correct": false
+      },
+      {
+        "id": "3380",
+        "text": "должен е да ги пропушти само пешаците",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3378"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121312%20eed88018-068e-4eee-86c9-1a87b9c3dafc.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 267,
+    "number": 268,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на патничкото моторно возило дејствието го извршува:",
+    "image": "assets/images/21112012 114357 fe8e4ceb-f5e3-4236-b5f0-199297ca1afa.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5130",
+        "text": "прописно, бидејки нема возила на крстосницата",
+        "correct": false
+      },
+      {
+        "id": "5131",
+        "text": "прописно, според поставениот сообраќаен знак",
+        "correct": false
+      },
+      {
+        "id": "5132",
+        "text": "непрописно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5132"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20114357%20fe8e4ceb-f5e3-4236-b5f0-199297ca1afa.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 268,
+    "number": 269,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот на патничкото  возило (прикажано на сликата), при свртување надесно:",
+    "image": "assets/images/21112012 114515 0947f019-cdf9-46fc-bd7e-7a4056dd3350.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5914",
+        "text": "должен е да се вклучи во крајната сообраќајна лента што се протега покрај десниот раб на коловозот",
+        "correct": true
+      },
+      {
+        "id": "5915",
+        "text": "должен е да се вклучи во левата сообраќајна лента на страничниот коловоз",
+        "correct": false
+      },
+      {
+        "id": "5916",
+        "text": "може да се вклучи во било која сообраќајна лента на страничниот коловоз",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5914"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20114515%200947f019-cdf9-46fc-bd7e-7a4056dd3350.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 269,
+    "number": 270,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Кога\n се движи на коловоз за сообраќај на возила во двете насоки на кој \nпостојат три сообраќајни ленти (како на сликата), возачот со возилото:",
+    "image": "assets/images/21112012 114649 470f3d72-11dd-410a-a6a0-09cee009f900.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5136",
+        "text": "не смее да се движи по сообраќајната лента што се наоѓа на левиот раб на патот во правецот на движење",
+        "correct": true
+      },
+      {
+        "id": "5137",
+        "text": "не смее да се движи по средната сообраќајна лента",
+        "correct": false
+      },
+      {
+        "id": "5138",
+        "text": "може да ги користи за движење трите сообраќајни ленти",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5136"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20114649%20470f3d72-11dd-410a-a6a0-09cee009f900.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 270,
+    "number": 271,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на патничкото моторно возило означено со број 1, кој има намера да \nсврти налево на овој дел од патот, прикажан на сликата:",
+    "image": "assets/images/21112012 114758 f36403c9-0431-4707-8fce-a536c49ba870.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5139",
+        "text": "смее да изврши свртување налево",
+        "correct": false
+      },
+      {
+        "id": "5140",
+        "text": "не смее да свртува налево",
+        "correct": true
+      },
+      {
+        "id": "5141",
+        "text": "смее да сврти налево, откако ќе ги пропушти возилата кои наидуваат од спротивен правец",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5140"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20114758%20f36403c9-0431-4707-8fce-a536c49ba870.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 271,
+    "number": 272,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Когa со светлосен сообраќаен знак е дозволено минување на крстосницата, прикажана како на сликата, јас со возилото:",
+    "image": "assets/images/21112012 114949 8fb995e4-9bc4-4ea9-b4a7-c2c48990efde.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5142",
+        "text": "смеам да влезам во крстосницата, иако густината на сообраќајот е таква што ме спречува да ја напуштам крстосницата",
+        "correct": false
+      },
+      {
+        "id": "5143",
+        "text": "не\n смеам да влезам во крстосницата, бидејки густината на сообраќајот е \nтаква што со возилото очигледно морам да  запрам во крстосницата",
+        "correct": true
+      },
+      {
+        "id": "5144",
+        "text": "смеам да влезам во крстосницата и со знаци за предупредување да ги забрзам возилата пред мене",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5143"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20114949%208fb995e4-9bc4-4ea9-b4a7-c2c48990efde.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 272,
+    "number": 273,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според\n ситуацијата прикажана на сликата кога наидувате на возило, кое излегува\n од паркиралиште со намера да се вклучи во сообраќај на патот по кој се \nдвижите, должни сте:",
+    "image": "assets/images/21112012 115202 9e8eba7f-880b-4dbe-8063-42065711cb3b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5145",
+        "text": "да ја намалите брзината на движење и да му овозможите на возилото да се вклучи во сообраќај",
+        "correct": false
+      },
+      {
+        "id": "5146",
+        "text": "да обрнете внимание на возилото кое има намера да се вклучи на патот и треба да продолжите да се движите со прилагодена  брзина",
+        "correct": true
+      },
+      {
+        "id": "5147",
+        "text": "да запрете и да го пропуштите возилото, бидеки се наоѓа од Вашата десна страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5146"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20115202%209e8eba7f-880b-4dbe-8063-42065711cb3b.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 273,
+    "number": 274,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото на авто школата означено со број 1 прикажано на сликата:",
+    "image": "assets/images/21112012 115353 7acb7419-9cbc-4b40-8f76-285c33341ad4.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5148",
+        "text": "може да помине на крстосницата пред возилото што доаѓа од неговата лева страна",
+        "correct": false
+      },
+      {
+        "id": "5149",
+        "text": "мора да го пропушти возилото што доаѓа од неговата лева страна",
+        "correct": true
+      },
+      {
+        "id": "5150",
+        "text": "има првенство на минување на крстосницата според правилото од десна страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5149"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20115353%207acb7419-9cbc-4b40-8f76-285c33341ad4.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 274,
+    "number": 275,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Кога\n со возилото се движите на коловоз за сообраќај на возила во двете \nнасоки на кој постојат три сообраќајни ленти (како на сликата), на овој \nдел од патот:",
+    "image": "assets/images/21112012 115540 504da482-9af2-468e-bf9c-c09e8fcf9ea3.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5151",
+        "text": "прописно вршите престигнување на возилото кое се движи пред Вас",
+        "correct": true
+      },
+      {
+        "id": "5152",
+        "text": "непрописно вршите престигнување на возилото кое се движи пред Вас",
+        "correct": false
+      },
+      {
+        "id": "5153",
+        "text": "непрописно престигнувате, според  хоризонталната патна сигнализација",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5151"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20115540%20504da482-9af2-468e-bf9c-c09e8fcf9ea3.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 275,
+    "number": 276,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата:",
+    "image": "assets/images/21112012 115703 93eb203d-8991-4037-9c1e-e02288385fc9.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5154",
+        "text": "смеете да започнете со обиколување на возилото запрено на десната страна од коловозот",
+        "correct": false
+      },
+      {
+        "id": "5155",
+        "text": "не смеете да започнете со обиколување на возилото запрено на десната страна од коловозот",
+        "correct": true
+      },
+      {
+        "id": "5156",
+        "text": "смеете да започнете со обиколување, бидејки возилото кое се движи од спротиваната насока е должно да ја намали брзината",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5155"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20115703%2093eb203d-8991-4037-9c1e-e02288385fc9.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 276,
+    "number": 277,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на возилото означено со број 1, врши свртување налево:",
+    "image": "assets/images/21112012 115812 f383c449-5d52-47c5-9210-6b0862f61c56.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5157",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "5158",
+        "text": "прописно, бидејки нема возила кои се движат од спротивната насока",
+        "correct": false
+      },
+      {
+        "id": "5159",
+        "text": "непрописно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5159"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20115812%20f383c449-5d52-47c5-9210-6b0862f61c56.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 277,
+    "number": 278,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата како на сликата возачот на патничкото возило со број 1:",
+    "image": "assets/images/13092012 121333 f6ce7c85-2c6b-4c25-8b62-153bc3d81d40.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3381",
+        "text": "не смее да го престигнува возилото пред него",
+        "correct": true
+      },
+      {
+        "id": "3382",
+        "text": "смее да започне со престигнување",
+        "correct": false
+      },
+      {
+        "id": "3383",
+        "text": "смее да престигнува, доколку нема пешаци на преминот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3381"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121333%20f6ce7c85-2c6b-4c25-8b62-153bc3d81d40.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 278,
+    "number": 279,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата како на сликата, возачот на патничкото возило со број 2:",
+    "image": "assets/images/13092012 121346 50b24273-6b6c-4e9e-8cf6-96a030c65e27.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3384",
+        "text": "смее да започне со престигнување на возилото со број 1",
+        "correct": false
+      },
+      {
+        "id": "3385",
+        "text": "смее да започне со престигнување, доколку употреби звучен сигнал",
+        "correct": false
+      },
+      {
+        "id": "3386",
+        "text": "не смее да започне со престигнување, бидејки возачот кој се движи зад него започнал со престигнување",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3386"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121346%2050b24273-6b6c-4e9e-8cf6-96a030c65e27.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 279,
+    "number": 280,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот на патничкото возило со број 1 кое се движи зад колона возила, според ситуацијата како на сликата:",
+    "image": "assets/images/13092012 121359 b7fd9460-745e-4d29-bb73-ec061c4dbcbc.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3387",
+        "text": "смее да започне со престигнување",
+        "correct": false
+      },
+      {
+        "id": "3388",
+        "text": "не смее да започне со престигнување",
+        "correct": true
+      },
+      {
+        "id": "3389",
+        "text": "може да престигнува бидејки има испрекината линија",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3388"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121359%20b7fd9460-745e-4d29-bb73-ec061c4dbcbc.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 280,
+    "number": 281,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата како на сликата возилото со број 1 врши престигнување:",
+    "image": "assets/images/13092012 121416 db7f6428-5e3e-4f0b-ad6d-058186aa6b10.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3390",
+        "text": "непрoписно",
+        "correct": true
+      },
+      {
+        "id": "3391",
+        "text": "прописно, според хоризонталната сигнализација на тој дел од патот",
+        "correct": false
+      },
+      {
+        "id": "3392",
+        "text": "прописно, доколку нема возило од спротивна насока",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3390"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121416%20db7f6428-5e3e-4f0b-ad6d-058186aa6b10.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 281,
+    "number": 282,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата како на сликата, возачот на возилото со број 1:",
+    "image": "assets/images/13092012 121428 186da724-9b74-4869-b7a6-90dbef132c98.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3393",
+        "text": "смее да започне со престигнување на возилото пред него",
+        "correct": false
+      },
+      {
+        "id": "3394",
+        "text": "не смее да започне со престигнување на возилото пред него",
+        "correct": true
+      },
+      {
+        "id": "3395",
+        "text": "смее да врши престигнување откако ќе го предупреди со звучен знак",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3394"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121428%20186da724-9b74-4869-b7a6-90dbef132c98.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 282,
+    "number": 283,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Патничкото возило со број 1 (како на сликата) за свртување на лево на крстосницата:",
+    "image": "assets/images/13092012 121441 555c4b2f-6eeb-4278-9274-945b2cc087c3.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3396",
+        "text": "правилно е престроено",
+        "correct": false
+      },
+      {
+        "id": "3397",
+        "text": "неправилно е престроено",
+        "correct": true
+      },
+      {
+        "id": "3398",
+        "text": "правилно се движи и може да изврши вклучување на бочниот пат од левата страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3397"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121441%20555c4b2f-6eeb-4278-9274-945b2cc087c3.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 283,
+    "number": 284,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата како на сликата на овој дел од патот наменет за сообраќај во двете насоки, вршите престигнување:",
+    "image": "assets/images/13092012 121500 a65a44be-69d4-420e-98a9-20dcbc40c137.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3399",
+        "text": "прописно, доколку нема возила од спротивната насока",
+        "correct": true
+      },
+      {
+        "id": "3400",
+        "text": "непрописно, бидејки престигнувате на испрекината линија",
+        "correct": false
+      },
+      {
+        "id": "3401",
+        "text": "непрописно, бидејки не смеете да преминувате на левата сообракајна лента",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3399"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121500%20a65a44be-69d4-420e-98a9-20dcbc40c137.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 284,
+    "number": 285,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Патничкиот автомобил, прикажан на сликата, врши престигнување на велосипедистот:",
+    "image": "assets/images/13092012 121516 73628e39-7b64-469f-949e-90ce3fd06820.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3402",
+        "text": "прописно",
+        "correct": true
+      },
+      {
+        "id": "3403",
+        "text": "непрописно",
+        "correct": false
+      },
+      {
+        "id": "3404",
+        "text": "непрописно, бидејки не смее да врши престигнување пред раскрсница",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3402"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121516%2073628e39-7b64-469f-949e-90ce3fd06820.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 285,
+    "number": 286,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на патничкото  возило прикажано на сликата, на овој дел од патот \nнаменет за сообраќај на возила во двете насоки, врши престигнување:",
+    "image": "assets/images/21112012 120115 9a9afaf8-7bc2-4200-a34c-baa096c433f6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5160",
+        "text": "прописно",
+        "correct": true
+      },
+      {
+        "id": "5161",
+        "text": "непрописно",
+        "correct": false
+      },
+      {
+        "id": "5162",
+        "text": "неправилно според поставената хоризонтална патна сигнализација",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5160"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20120115%209a9afaf8-7bc2-4200-a34c-baa096c433f6.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 286,
+    "number": 287,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на возилото означено со број 1, на овој дел од патот наменет за \nсообраќај на возила во двете насоки (како на сликата), врши \nпрестигнување:",
+    "image": "assets/images/21112012 120226 b8082b9f-fa71-4ebf-b6bc-931a2e61edd6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5163",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "5164",
+        "text": "непрописно",
+        "correct": true
+      },
+      {
+        "id": "5165",
+        "text": "правилно, бидејки нема возила од спротивната насока",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5164"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20120226%20b8082b9f-fa71-4ebf-b6bc-931a2e61edd6.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 287,
+    "number": 288,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на возилото означено со број 1 на крстосницата:",
+    "image": "assets/images/21112012 120335 36d39a78-b996-4d24-86ac-87474085ba69.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5166",
+        "text": "смее да продолжи во насока право",
+        "correct": false
+      },
+      {
+        "id": "5167",
+        "text": "може да продолжи во насока право, откако ќе се престрои во соседната десна сообраќајна лента",
+        "correct": false
+      },
+      {
+        "id": "5168",
+        "text": "не смее да продолжи во насока право",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5168"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20120335%2036d39a78-b996-4d24-86ac-87474085ba69.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 288,
+    "number": 289,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според\n завземената положба со возилото пред крстосницата (како на сликата), \nдоколку имате намера да продолжите со движењето во насока за лево:",
+    "image": "assets/images/21112012 120556 28abe3f4-75e7-4e23-9cc3-9f92bf8bff6a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5169",
+        "text": "смеете да се престроите во сообраќајната лента за лево",
+        "correct": false
+      },
+      {
+        "id": "5170",
+        "text": "не смеете да се престроите во сообраќајната лента за лево",
+        "correct": true
+      },
+      {
+        "id": "5171",
+        "text": "може да извршите свртување налево и од сообраќајната лента по која се движите",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5170"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20120556%2028abe3f4-75e7-4e23-9cc3-9f92bf8bff6a.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 289,
+    "number": 290,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата и завземената положба со возилото пред  крстосницата, смеете да продолжите со движењето:",
+    "image": "assets/images/21112012 120714 776d564d-1861-4d41-bf33-5eed0bf7493c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5172",
+        "text": "во насока лево и право",
+        "correct": false
+      },
+      {
+        "id": "5173",
+        "text": "само во насока право",
+        "correct": false
+      },
+      {
+        "id": "5174",
+        "text": "во насока право и десно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5174"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20120714%20776d564d-1861-4d41-bf33-5eed0bf7493c.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 290,
+    "number": 291,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, доколку со возилото имате намера да продолжите во насока лево:",
+    "image": "assets/images/21112012 120824 b983a35f-609d-4d0a-bee1-3876dad2a153.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5175",
+        "text": "треба да го пропуштите автобусот кој доаѓа од Вашата десна страна",
+        "correct": false
+      },
+      {
+        "id": "5176",
+        "text": "ќе свртите налево пред автобусот",
+        "correct": true
+      },
+      {
+        "id": "5177",
+        "text": "мора да го пропуштите автобусот, бидејки е возило од повисока категорија",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5176"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20120824%20b983a35f-609d-4d0a-bee1-3876dad2a153.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 291,
+    "number": 292,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според положбата на возилата, кои ги има воочено на своето лево странично огледало прикажано на сликата, возачот:",
+    "image": "assets/images/21112012 120946 f04cd461-deee-4556-85c7-742982e2923d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5178",
+        "text": "смее да започне со престројување во левата соседна сообраќајна лента",
+        "correct": false
+      },
+      {
+        "id": "5179",
+        "text": "не смее да започне со престројување во соседната лева сообраќајна лента",
+        "correct": true
+      },
+      {
+        "id": "5180",
+        "text": "смее да започне со престројување налево, бидејки мотоциклот е без бочна приколка",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5179"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20120946%20f04cd461-deee-4556-85c7-742982e2923d.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 292,
+    "number": 293,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според положбата на возилата, кои ги има воочено на своето десно странично огледало прикажано на сликата, возачот:",
+    "image": "assets/images/21112012 121058 404bc2cf-f8ca-4b28-8e8c-e4678c12b98f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5181",
+        "text": "не смее да започне со преминување на возилото во десната сообраќајна лента",
+        "correct": true
+      },
+      {
+        "id": "5182",
+        "text": "смее да започне со преминување на возилото во десната сообраќајна лента",
+        "correct": false
+      },
+      {
+        "id": "5183",
+        "text": "смее веднаш да премине со возилото во десната сообраќајна лента, бидејки има испрекината линија",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5181"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20121058%20404bc2cf-f8ca-4b28-8e8c-e4678c12b98f.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 293,
+    "number": 294,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На\n дел од патот со три сообраќајни ленти наменет за сообраќај на возила во\n двете насоки, кога со возилото се движите зад колона на возила, како на\n сликата:",
+    "image": "assets/images/21112012 121230 4ee13536-3307-4873-8cb2-61ee47a993cf.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5184",
+        "text": "смеете да започнете со престигнување",
+        "correct": false
+      },
+      {
+        "id": "5185",
+        "text": "можете да извршите престигнување, бидејки имате доволно простор за безбедно изведување на дејствието",
+        "correct": false
+      },
+      {
+        "id": "5186",
+        "text": "не смеете да започнете со престигнување",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5186"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20121230%204ee13536-3307-4873-8cb2-61ee47a993cf.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 294,
+    "number": 295,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На\n дел од патот наменет за сообраќај на возила во двете насоки, возачот на\n патничкото возило означено со број 1 (како на сликата):",
+    "image": "assets/images/21112012 121355 93d627e0-7ccc-4f91-9865-df028e2f58a1.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5187",
+        "text": "не смее да започне со престигнување",
+        "correct": true
+      },
+      {
+        "id": "5188",
+        "text": "смее да започне со престигнување",
+        "correct": false
+      },
+      {
+        "id": "5189",
+        "text": "може да изврши престигнување, бидејки има доволно простор за безбедно изведување на дејствието",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5187"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20121355%2093d627e0-7ccc-4f91-9865-df028e2f58a1.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 295,
+    "number": 296,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Пешакот е должен при преминување на коловозот да се движи по обележан пешачки премин, освен ако пешачкиот премин од него:",
+    "image": "assets/images/13092012 121534 c3958b89-085a-4eb0-81fb-572fa20105e2.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3405",
+        "text": "е оддалечен повеке од 50 метри",
+        "correct": false
+      },
+      {
+        "id": "3406",
+        "text": "е оддалечен повеке од 70 метри",
+        "correct": false
+      },
+      {
+        "id": "3407",
+        "text": "е оддалечен повеке од 100 метри",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3407"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121534%20c3958b89-085a-4eb0-81fb-572fa20105e2.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 296,
+    "number": 297,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "„Престигнување“ е минување со возило покрај друг учесник во патниот сообраќај:",
+    "image": "assets/images/13092012 121547 9f51d625-82fa-4294-b285-43fe97602a0c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3408",
+        "text": "кој се движи во иста насока по иста сообраќајна лента",
+        "correct": true
+      },
+      {
+        "id": "3409",
+        "text": "кој се движи од спротивна насока по истиот коловоз",
+        "correct": false
+      },
+      {
+        "id": "3410",
+        "text": "кој се движи покрај запрено или паркирано возило",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3408"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121547%209f51d625-82fa-4294-b285-43fe97602a0c.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 297,
+    "number": 298,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На јавен пат на кој не постои тротоар, пешаците можат да се движат по коловозот и притоа смеат да користат:",
+    "image": "assets/images/13092012 121601 eb99dc07-a47a-4cd0-9b00-b22da5c80287.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3411",
+        "text": "најмногу 1 метар широк дел од коловозот, сметано од неговиот раб",
+        "correct": true
+      },
+      {
+        "id": "3412",
+        "text": "најмногу 1,6 метри широк дел од коловозот",
+        "correct": false
+      },
+      {
+        "id": "3413",
+        "text": "најмногу половина метар широк дел од работ на коловозот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3411"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121601%20eb99dc07-a47a-4cd0-9b00-b22da5c80287.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 298,
+    "number": 299,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На дел од коловозот на кој сообраќајот се одвива во две насоки, возачот не смее да врши престигнување:",
+    "image": "assets/images/13092012 121617 7c76a741-b641-4d0c-a177-2735b52595b0.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3414",
+        "text": "во непрегледна кривина и преку полна линија",
+        "correct": true
+      },
+      {
+        "id": "3415",
+        "text": "кога возачот пред него со десен трепкач се исклучува со возилото од сообраќај",
+        "correct": false
+      },
+      {
+        "id": "3416",
+        "text": "доколку има испрекината линија од неговата лева страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3414"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121617%207c76a741-b641-4d0c-a177-2735b52595b0.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 299,
+    "number": 300,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, велосипедистите се движат:",
+    "image": "assets/images/13092012 121636 19453af6-b77e-4596-a126-3a588719e02a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3417",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "3418",
+        "text": "непрописно,бидејки треба да се движат еден по друг",
+        "correct": true
+      },
+      {
+        "id": "3419",
+        "text": "правилно, бидејки нема велосипедска патека",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3418"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121636%2019453af6-b77e-4596-a126-3a588719e02a.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 300,
+    "number": 301,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилата означени со броевите 1 и 2 (како на сликата) на крстосницата можат да продолжат со движењето:",
+    "image": "assets/images/13092012 121654 8fbaf2d7-3583-4f22-bb77-9608e556501b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3420",
+        "text": "во насока право",
+        "correct": false
+      },
+      {
+        "id": "3421",
+        "text": "во насока право и лево",
+        "correct": false
+      },
+      {
+        "id": "3422",
+        "text": "во насока лево",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3422"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121654%208fbaf2d7-3583-4f22-bb77-9608e556501b.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 301,
+    "number": 302,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот на товарното возило (како на сликата) за време додека го престигнувате:",
+    "image": "assets/images/13092012 121710 efee7799-ecc8-459a-83cd-7b2c5038d701.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3423",
+        "text": "не смее да ја зголемува брзината на движење",
+        "correct": true
+      },
+      {
+        "id": "3424",
+        "text": "должен е да ја намали брзината на движење",
+        "correct": false
+      },
+      {
+        "id": "3425",
+        "text": "должен е да го вклучи десниот трепкач и да ја намали брзината на движење за 20 км/ч",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3423"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121710%20efee7799-ecc8-459a-83cd-7b2c5038d701.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 302,
+    "number": 303,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Велосипед на пат, може да управува лице кое наполнило:",
+    "image": "assets/images/13092012 121730 f01b2cb2-c4bb-48b7-9b39-8028d6cd2c65.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3426",
+        "text": "7 години возраст",
+        "correct": false
+      },
+      {
+        "id": "3427",
+        "text": "8 години возраст",
+        "correct": false
+      },
+      {
+        "id": "3428",
+        "text": "10 години возраст",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3428"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121730%20f01b2cb2-c4bb-48b7-9b39-8028d6cd2c65.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 303,
+    "number": 304,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот на патничкото возило, кој свртува на страничен пат (како на сликата) должен е:",
+    "image": "assets/images/21112012 121656 1792b799-f57f-4874-acf0-a7abccd29269.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5190",
+        "text": "да ги пропушти пешаците кои стапнале на пешачкиот премин",
+        "correct": true
+      },
+      {
+        "id": "5191",
+        "text": "да ги предупреди пешаците со звучен сигнал и да продолжи со движењето",
+        "correct": false
+      },
+      {
+        "id": "5192",
+        "text": "да го помести возилото кон десно и да помине пред пешаците",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5190"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20121656%201792b799-f57f-4874-acf0-a7abccd29269.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 304,
+    "number": 305,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата како на сликата, возачот на патничкиот автомобил:",
+    "image": "assets/images/21112012 121757 d3536299-61e3-4cdf-ad3e-1ad3fa1cad10.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5193",
+        "text": "правилно е запрен за да го пропушти пешакот",
+        "correct": false
+      },
+      {
+        "id": "5194",
+        "text": "неправилно е запрен за да го пропушти пешакот",
+        "correct": true
+      },
+      {
+        "id": "5195",
+        "text": "правилно е запрен, бидејки има доволно простор на пешачкиот премин за да помине пешакот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5194"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20121757%20d3536299-61e3-4cdf-ad3e-1ad3fa1cad10.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 305,
+    "number": 306,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на возилото на полицијата:",
+    "image": "assets/images/21112012 121919 88b9f014-d5a9-40f4-906e-417eebe97922.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5196",
+        "text": "треба да го пропушти возилото на противпожарната служба",
+        "correct": false
+      },
+      {
+        "id": "5197",
+        "text": "може да сврти налево пред возилото на противпожарната служба",
+        "correct": true
+      },
+      {
+        "id": "5198",
+        "text": "по договор ќе се размине со возилото на противпожарната служба",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5197"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20121919%2088b9f014-d5a9-40f4-906e-417eebe97922.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 306,
+    "number": 307,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Редоследот на минување на возилата на крстосницата (како на сликата) е регулиран, според:",
+    "image": "assets/images/21112012 122025 4830c6a8-ff77-415e-a668-61bb8dff4516.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5199",
+        "text": "поставените сообраќајни знаци пред крстосницата",
+        "correct": true
+      },
+      {
+        "id": "5200",
+        "text": "правилото за пропуштање на возило што наидува од десната страна",
+        "correct": false
+      },
+      {
+        "id": "5201",
+        "text": "одредбите за првенство на минување на возила кога со посебни уреди даваат светлосни и звучни знаци",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5199"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20122025%204830c6a8-ff77-415e-a668-61bb8dff4516.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 307,
+    "number": 308,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На обележан пешачки премин, на кој сообраќајот не е регулиран со светлосни сообраќајни знаци (како на сликата), пешакот:",
+    "image": "assets/images/21112012 122144 8c27517a-66da-444d-ae41-8b81b0530e1d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5202",
+        "text": "пред стапнување на пешачкиот премин, должен е да обрне внимание на возилата што му се доближуваат",
+        "correct": true
+      },
+      {
+        "id": "5203",
+        "text": "може слободно да стапне на пешачкиот премин, бидејки возилата треба да го пропуштат",
+        "correct": false
+      },
+      {
+        "id": "5204",
+        "text": "не треба да води сметка за оддалеченоста и за брзината на возилата што се доближуваат кон пешачкиот премин",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5202"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20122144%208c27517a-66da-444d-ae41-8b81b0530e1d.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 308,
+    "number": 309,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Патот по кој што се движи возилото (како на сликата) претставува:",
+    "image": "assets/images/21112012 122300 3cf16306-52c0-41fe-8732-c454bd41d1eb.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5205",
+        "text": "пат резервиран за сообраќај на моторни возила",
+        "correct": false
+      },
+      {
+        "id": "5206",
+        "text": "магистрален пат",
+        "correct": false
+      },
+      {
+        "id": "5207",
+        "text": "некатегоризиран пат",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5207"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20122300%203cf16306-52c0-41fe-8732-c454bd41d1eb.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 309,
+    "number": 310,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот на возилото, кога се доближува кон обележан пешачки премин (како на сликата), должен е:",
+    "image": "assets/images/21112012 122452 56699afb-9e22-44ec-aa41-87c8b2a7c25c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5208",
+        "text": "да запре и да го пропушти пешакот кој стапнува на пешачкиот премин",
+        "correct": true
+      },
+      {
+        "id": "5209",
+        "text": "да забрза со движењето и да помине пред пешакот",
+        "correct": false
+      },
+      {
+        "id": "5210",
+        "text": "да употреби звучен знак за предупредување и да продолжи со движењето",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5208"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20122452%2056699afb-9e22-44ec-aa41-87c8b2a7c25c.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 310,
+    "number": 311,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на возилото на полицијата кој се доближува кон обележан пешачки премин:",
+    "image": "assets/images/21112012 122630 5f4761dc-a9e7-4f18-a7ec-f91111ab289b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5211",
+        "text": "должен е да запре за да го пропушти пешакот",
+        "correct": true
+      },
+      {
+        "id": "5212",
+        "text": "може да продолжи со движењето и  да помине пред пешакот",
+        "correct": false
+      },
+      {
+        "id": "5213",
+        "text": "должен е со звучен сигнал да го предупреди пешакот и да продолжи со движењето",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5211"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20122630%205f4761dc-a9e7-4f18-a7ec-f91111ab289b.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 311,
+    "number": 312,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото со број 1 прикажано на сликата, за да продолжи со движење во насока лево, пред крстосницата врши престројување:",
+    "image": "assets/images/21112012 122745 c3b3451a-8f6b-4b7e-af47-717d25a46dd1.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5214",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "5215",
+        "text": "непрописно",
+        "correct": true
+      },
+      {
+        "id": "5216",
+        "text": "прописно, бидејки нема возила зад него, од неговата лева страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5215"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20122745%20c3b3451a-8f6b-4b7e-af47-717d25a46dd1.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 312,
+    "number": 313,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На јавен пат во населено место, возачот на возилото означено со број 1 (како на сликата), се движи:",
+    "image": "assets/images/21112012 122909 c6228671-b869-43a9-9d4f-3424bb98a780.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5217",
+        "text": "со брзина која се препорачува за тој дел од патот",
+        "correct": false
+      },
+      {
+        "id": "5218",
+        "text": "со брзина помала од ограничената за тој дел од патот",
+        "correct": false
+      },
+      {
+        "id": "5219",
+        "text": "со брзина поголема од ограничената на тој дел од патот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5219"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20122909%20c6228671-b869-43a9-9d4f-3424bb98a780.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 313,
+    "number": 314,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според ситуацијата како на сликата, возачот на патничкиот автомобил кој се доближува кон пешачкиот премин, должен е:",
+    "image": "assets/images/13092012 121752 ac54f26b-a897-44ff-aa4a-e8839bc5141d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3429",
+        "text": "да го запре возилото и да го пропушти пешакот",
+        "correct": true
+      },
+      {
+        "id": "3430",
+        "text": "да забрза и да го обиколи пешакот",
+        "correct": false
+      },
+      {
+        "id": "3431",
+        "text": "со звучен знак да го предупреди пешакот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3429"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121752%20ac54f26b-a897-44ff-aa4a-e8839bc5141d.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 314,
+    "number": 315,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "На сликата е претставен пат на кој сообраќајот се одвива:",
+    "image": "assets/images/13092012 121806 31856486-04d2-47be-bc3e-aa9a00350cfc.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3432",
+        "text": "во двете насоки",
+        "correct": false
+      },
+      {
+        "id": "3433",
+        "text": "во една насока",
+        "correct": true
+      },
+      {
+        "id": "3434",
+        "text": "со наизменично пропуштање на возилата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3433"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121806%2031856486-04d2-47be-bc3e-aa9a00350cfc.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 315,
+    "number": 316,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, при разминување:",
+    "image": "assets/images/13092012 121819 b005c0ad-5112-4278-acd3-3feebe555d0a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3435",
+        "text": "должни сте да го пропуштите возилото од спротивната насока",
+        "correct": false
+      },
+      {
+        "id": "3436",
+        "text": "имате првенство на минување во однос на возилото од спротивната насока",
+        "correct": true
+      },
+      {
+        "id": "3437",
+        "text": "разминувањето ќе го извршите со меѓусебен договор",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3436"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121819%20b005c0ad-5112-4278-acd3-3feebe555d0a.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 316,
+    "number": 317,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според\n ситуацијата прикажана на сликата кога еден од велосипедистите ја \nнајавил својата намера за промена на правецот во насока лево, Вие со \nвозилото:",
+    "image": "assets/images/13092012 121835 5a741224-c33c-474c-8940-12c369d86b0d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3438",
+        "text": "смеете да ги престигнувате велосипедистите",
+        "correct": false
+      },
+      {
+        "id": "3439",
+        "text": "не смеете да ги престигнувате велосипедистите",
+        "correct": true
+      },
+      {
+        "id": "3440",
+        "text": "смеете да престигнувате, откако со звучен знак ќе ги предупредите велосипедистите",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3439"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121835%205a741224-c33c-474c-8940-12c369d86b0d.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 317,
+    "number": 318,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според ситуацијата на сликата, патничкиот автомобил:",
+    "image": "assets/images/13092012 121848 1519cba6-4051-46b8-b047-e764467f286f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3441",
+        "text": "може да сврти надесно пред велосипедистот",
+        "correct": false
+      },
+      {
+        "id": "3442",
+        "text": "не смее да сврти надесно",
+        "correct": false
+      },
+      {
+        "id": "3443",
+        "text": "може да сврти надесно, откако ќе го пропушти велосипедистот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3443"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121848%201519cba6-4051-46b8-b047-e764467f286f.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 318,
+    "number": 319,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "„Разминување“ е минување со возило покрај друго возило кое се движи:",
+    "image": "assets/images/13092012 121908 a2e4843a-cfe9-4bee-bef6-881b274a18cf.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3444",
+        "text": "по истиот коловоз од спротивната насока",
+        "correct": true
+      },
+      {
+        "id": "3445",
+        "text": "во иста насока по иста коловозна лента",
+        "correct": false
+      },
+      {
+        "id": "3446",
+        "text": "во иста насока по иста сообраќајна лента",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3444"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121908%20a2e4843a-cfe9-4bee-bef6-881b274a18cf.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 319,
+    "number": 320,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Пред влегување во тунел, возачот треба да ги има вклучено на возилото:",
+    "image": "assets/images/13092012 121921 6d867632-1c4a-4661-9f4e-c23609cebee4.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3447",
+        "text": "долгите светла",
+        "correct": false
+      },
+      {
+        "id": "3448",
+        "text": "позиционите светла за означување на возилото",
+        "correct": false
+      },
+      {
+        "id": "3449",
+        "text": "соборените светла",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3449"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121921%206d867632-1c4a-4661-9f4e-c23609cebee4.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 320,
+    "number": 321,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Разминувањето на возилата (како на сликата) е регулирано:",
+    "image": "assets/images/13092012 121941 5f0c0ed6-1813-4da6-9498-1c847368d452.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3450",
+        "text": "според правилото од десна страна",
+        "correct": false
+      },
+      {
+        "id": "3451",
+        "text": "по договор на возачите",
+        "correct": false
+      },
+      {
+        "id": "3452",
+        "text": "според поставените сообраќајни знаци",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3452"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20121941%205f0c0ed6-1813-4da6-9498-1c847368d452.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 321,
+    "number": 322,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Возачот\n на патничкото возило означено со број 1 прикажано на сликата, го \nпаркирал своето возило на коловоз наменет за сообраќај во двете насоки:",
+    "image": "assets/images/21112012 124846 fcceaeac-bb8f-4474-9bcd-ee941b7794a5.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5220",
+        "text": "прописно",
+        "correct": false
+      },
+      {
+        "id": "5221",
+        "text": "правилно, доколку живее на таа адреса",
+        "correct": false
+      },
+      {
+        "id": "5222",
+        "text": "непрописно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5222"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20124846%20fcceaeac-bb8f-4474-9bcd-ee941b7794a5.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 322,
+    "number": 323,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според поставените сообраќајни знаци од десната страна на патот (како на сликата), возачот на патничкото возило:",
+    "image": "assets/images/21112012 124958 5c8978b8-3942-435c-9505-2e56a87a7af5.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5223",
+        "text": "наидува на кривина надесно и се вклучува на пат резервиран за сообраќај на моторни возила",
+        "correct": true
+      },
+      {
+        "id": "5224",
+        "text": "наидува на кривина надесно и се вклучува на автопат",
+        "correct": false
+      },
+      {
+        "id": "5225",
+        "text": "наидува на кривина налево и се исклучува од пат резервиран за сообраќај на моторни возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5223"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20124958%205c8978b8-3942-435c-9505-2e56a87a7af5.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 323,
+    "number": 324,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот го паркирал патничкото возило:",
+    "image": "assets/images/21112012 125105 cad68a33-3c9f-4abc-a171-36253107b155.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5226",
+        "text": "прописно, бидејки во близина нема паркинг простор",
+        "correct": false
+      },
+      {
+        "id": "5227",
+        "text": "прописно, бидејки не го попречува одвивањето на сообраќајот",
+        "correct": false
+      },
+      {
+        "id": "5228",
+        "text": "непрописно, на зелена површина",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5228"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20125105%20cad68a33-3c9f-4abc-a171-36253107b155.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 324,
+    "number": 325,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според ситуацијата прикажана на сликата, возачот на патничкото возило со број 1, на овој дел од патот:",
+    "image": "assets/images/21112012 125243 8d4c5b2c-78ec-4cc5-8e63-e43b6626c598.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5229",
+        "text": "прописно го паркирал своето возило",
+        "correct": false
+      },
+      {
+        "id": "5230",
+        "text": "прописно го паркирал возилото надвор од коловозот",
+        "correct": false
+      },
+      {
+        "id": "5231",
+        "text": "непрописно го паркирал своето возило",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5231"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20125243%208d4c5b2c-78ec-4cc5-8e63-e43b6626c598.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 325,
+    "number": 326,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Возачот кој со моторно возило се исклучува од сообраќај на автопат, должен е:",
+    "image": "assets/images/21112012 125421 da94b301-1018-435f-9d8b-0e0669382d49.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5232",
+        "text": "да ја користи посебната лента за забрзување",
+        "correct": false
+      },
+      {
+        "id": "5233",
+        "text": "да ја користи лентата за принудно запирање",
+        "correct": false
+      },
+      {
+        "id": "5234",
+        "text": "да ја користи посебната лента за забавување",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5234"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20125421%20da94b301-1018-435f-9d8b-0e0669382d49.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 326,
+    "number": 327,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според ситуацијата прикажана на сликатa:",
+    "image": "assets/images/21112012 125534 8a59df31-0eb5-41d6-b078-afc87e805615.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5235",
+        "text": "се вклучувате во сообраќај на автопат",
+        "correct": true
+      },
+      {
+        "id": "5236",
+        "text": "се вклучувате на пат резервиран за сообраќај на моторни возила",
+        "correct": false
+      },
+      {
+        "id": "5237",
+        "text": "се исклучувате од сообраќај на автопат",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5235"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20125534%208a59df31-0eb5-41d6-b078-afc87e805615.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 327,
+    "number": 328,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "На дел од патот наменет за сообраќај во две насоки прикажан на сликата, патничкото возило означено со број 1 запрено е:",
+    "image": "assets/images/21112012 125707 4f5505bd-8200-4898-bb4e-e1257855b684.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5238",
+        "text": "правилно пред пешачкиот премин за да ги пропушти пешаците",
+        "correct": false
+      },
+      {
+        "id": "5239",
+        "text": "правилно покрај левиот раб на коловозот во правецот на движење",
+        "correct": false
+      },
+      {
+        "id": "5240",
+        "text": "неправилно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "5240"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20125707%204f5505bd-8200-4898-bb4e-e1257855b684.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 328,
+    "number": 329,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Според прикажаната ситуација на сликата, возачот на патничкото возило:",
+    "image": "assets/images/21112012 125840 cccc7c7a-b1e2-45e6-bb30-59aba48ad9d9.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5241",
+        "text": "може да паркира на паркинг место наменето за лица со посебни потреби",
+        "correct": false
+      },
+      {
+        "id": "5242",
+        "text": "не смее да паркира на обележано паркинг место за лица со посебни потреби",
+        "correct": true
+      },
+      {
+        "id": "5243",
+        "text": "смее да го паркира возилото на начин како на сликата, доколку нема други слободни места за паркирање",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5242"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20125840%20cccc7c7a-b1e2-45e6-bb30-59aba48ad9d9.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 329,
+    "number": 330,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "На дел од патот прикажан како на сликата, возилото означено со број 1:",
+    "image": "assets/images/21112012 130010 9aec387b-49eb-4a0b-b39f-f2a53a9e537d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5244",
+        "text": "правилно е запрено, односно паркирано",
+        "correct": true
+      },
+      {
+        "id": "5245",
+        "text": "неправилно е запрено, односно паркирано",
+        "correct": false
+      },
+      {
+        "id": "5246",
+        "text": "неправилно е паркирано, бидејки ги нема вклучено трепкачите",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5244"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20130010%209aec387b-49eb-4a0b-b39f-f2a53a9e537d.jpg",
+    "topic": "traffic-rules-and-situations"
+  },
+  {
+    "index": 330,
+    "number": 331,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "На дел од патот наменет за сообраќај во двете насоки, возилото означено со број 1 (како на сликата)паркирано е:",
+    "image": "assets/images/21112012 130136 e5da2cd7-29c1-4907-bfe2-0617b44a171d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5247",
+        "text": "прописно, покрај десниот раб на коловозот",
+        "correct": false
+      },
+      {
+        "id": "5248",
+        "text": "непрописно",
+        "correct": true
+      },
+      {
+        "id": "5249",
+        "text": "правилно, бидејки не претставува пречка за нормално одвивање на сообраќајот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5248"
+    ],
+    "images": [],
+    "point_value": 4,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/21112012%20130136%20e5da2cd7-29c1-4907-bfe2-0617b44a171d.jpg",
+    "topic": "traffic-rules-and-situations"
+  }
+]

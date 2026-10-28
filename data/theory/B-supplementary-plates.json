@@ -1,0 +1,902 @@
+[
+  {
+    "index": 25,
+    "number": 26,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/16072012 134451 11c95504-d6a6-4071-9993-f8028e5ec864.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6227",
+        "text": "Место каде паркирањето е наменето за сите возила",
+        "correct": false
+      },
+      {
+        "id": "6228",
+        "text": "Место на кое паркирањето е наменето само за инвалидизирани лица",
+        "correct": true
+      },
+      {
+        "id": "6229",
+        "text": "Место на кое паркирањето е временски ограничено",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6228"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/16072012%20134451%2011c95504-d6a6-4071-9993-f8028e5ec864.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 26,
+    "number": 27,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/19072012 133709 64ffda03-602d-45b6-9f8e-9d0944c47cbd.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6230",
+        "text": "Должина на опасната надолнина",
+        "correct": false
+      },
+      {
+        "id": "6231",
+        "text": "Должина од поставениот сообраќаен знак и местото каде започнува опасната нагорнина",
+        "correct": false
+      },
+      {
+        "id": "6232",
+        "text": "Оддалеченост од поставениот сообраќаен знак и местото каде започнува опасната надолнина",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "6232"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20133709%2064ffda03-602d-45b6-9f8e-9d0944c47cbd.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 27,
+    "number": 28,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/19072012 133748 81674525-3bc3-4425-8766-87486ce20d54.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6233",
+        "text": "Должина на патот со првенство на минување",
+        "correct": false
+      },
+      {
+        "id": "6234",
+        "text": "Оддалеченост од знакот до раскрсницата на која возачот дава предност на сите возила што се движат на патот на кој тој наидува",
+        "correct": true
+      },
+      {
+        "id": "6235",
+        "text": "Место на кое започнува патот со првенство на минување",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6234"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20133748%2081674525-3bc3-4425-8766-87486ce20d54.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 28,
+    "number": 29,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Косите линии поставени под сообраќајниот знак означуваат:",
+    "image": "assets/images/19072012 133938 7cd55a86-14cf-4b95-9b75-068c8765eb79.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6236",
+        "text": "Оддалеченост од 80 метри од преминот на пат преку железничка пруга со браници или полубраници",
+        "correct": false
+      },
+      {
+        "id": "6237",
+        "text": "Оддалеченост од 160 метри од преминот на пат преку железничка пруга со браници или полубраници",
+        "correct": true
+      },
+      {
+        "id": "6238",
+        "text": "Оддалеченост од 240 метри од преминот на пат преку железничка пруга со браници или полубраници",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6237"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20133938%207cd55a86-14cf-4b95-9b75-068c8765eb79.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 29,
+    "number": 30,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/04092012 140909 aa6d7462-6c01-418d-9616-b5fffa5c0eca.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6239",
+        "text": "Место каде сообраќајот се одвива во насока на прикажаните стрелки",
+        "correct": false
+      },
+      {
+        "id": "6240",
+        "text": "Оддалеченост од место каде започнуваат работите на патот",
+        "correct": false
+      },
+      {
+        "id": "6241",
+        "text": "Должина на дел од патот на кој што се изведувааат работи на патот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "6241"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/04092012%20140909%20aa6d7462-6c01-418d-9616-b5fffa5c0eca.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 30,
+    "number": 31,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/19072012 134127 9b77e24b-1695-4121-a07e-a4308b918395.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6242",
+        "text": "Време во кое е забрането запирањето",
+        "correct": false
+      },
+      {
+        "id": "6243",
+        "text": "Време во кое е забрането запирање и паркирање на страната од патот каде е поставен сообраќајниот знак",
+        "correct": true
+      },
+      {
+        "id": "6244",
+        "text": "Време во кое е дозволено паркирање на страната од патот каде е поставен сообраќајниот знак",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6243"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20134127%209b77e24b-1695-4121-a07e-a4308b918395.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 31,
+    "number": 32,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/19072012 134211 ccafed9c-78be-445c-b9dc-2fce4f117da6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6245",
+        "text": "Должина на дел од патот на кој важи забраната за престигнување",
+        "correct": true
+      },
+      {
+        "id": "6246",
+        "text": "Должина на дел од патот на кој престигнувањето е дозволено",
+        "correct": false
+      },
+      {
+        "id": "6247",
+        "text": "Оддалеченост од местото каде започнува забраната за престигнување",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6245"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20134211%20ccafed9c-78be-445c-b9dc-2fce4f117da6.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 32,
+    "number": 33,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/19072012 134303 4292f11f-30f6-4330-a6a8-5fd2208beaf0.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6248",
+        "text": "Завршеток на патот со првенство на минување",
+        "correct": false
+      },
+      {
+        "id": "6249",
+        "text": "Се движиме на патот со првенство на минување ако свртуваме надесно",
+        "correct": true
+      },
+      {
+        "id": "6250",
+        "text": "Остануваме на пат со првенство на минување ако свртуваме налево",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6249"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20134303%204292f11f-30f6-4330-a6a8-5fd2208beaf0.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 33,
+    "number": 34,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/19072012 134345 5cae0be4-70f6-4059-b736-2a618ed7afce.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6251",
+        "text": "Насока во која мора да се движат товарните моторни возила",
+        "correct": false
+      },
+      {
+        "id": "6252",
+        "text": "Забрана за свртување налево само за товарни моторни возила",
+        "correct": true
+      },
+      {
+        "id": "6253",
+        "text": "Забрана за полукружно свртување за товарни моторни возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6252"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20134345%205cae0be4-70f6-4059-b736-2a618ed7afce.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 34,
+    "number": 35,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/19072012 134422 f62494c4-7d24-47f2-a3f1-133aabf744e9.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6254",
+        "text": "Место каде повремено има врнежи од снег",
+        "correct": false
+      },
+      {
+        "id": "6255",
+        "text": "Почеток на дел од патот на кој постои опасност од мраз",
+        "correct": true
+      },
+      {
+        "id": "6256",
+        "text": "Почеток на дел од патот на кој постои опасност од појава на дожд",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6255"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/19072012%20134422%20f62494c4-7d24-47f2-a3f1-133aabf744e9.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 35,
+    "number": 36,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 112435 065e283d-4eba-46ce-a193-0b70a238484f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6257",
+        "text": "Положба при паркирање на возилото на коловоз",
+        "correct": true
+      },
+      {
+        "id": "6258",
+        "text": "Место на кое  паркирањето не е дозволено",
+        "correct": false
+      },
+      {
+        "id": "6259",
+        "text": "Место на кое паркирањето е временски ограничено",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6257"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20112435%20065e283d-4eba-46ce-a193-0b70a238484f.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 36,
+    "number": 37,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 114300 c8dad844-28c6-4518-8405-ef6d5fdf7d32.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6260",
+        "text": "Забранета насока за сообраќај на патнички автомобили",
+        "correct": false
+      },
+      {
+        "id": "6261",
+        "text": "Задолжителна насока за товарни моторни возила",
+        "correct": false
+      },
+      {
+        "id": "6262",
+        "text": "Задолжителна насока во која треба да се движат патничките автомобили",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "6262"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20114300%20c8dad844-28c6-4518-8405-ef6d5fdf7d32.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 37,
+    "number": 38,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 114503 9c50341c-31db-41bf-aa61-9c98a26b1d00.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6263",
+        "text": "Место на кое има вдлабнатини на патот",
+        "correct": false
+      },
+      {
+        "id": "6264",
+        "text": "Место на патот каде што се наоѓа опрема за смирување на сообраќајот (издадености)",
+        "correct": true
+      },
+      {
+        "id": "6265",
+        "text": "Место на кое има организиран превоз на деца",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6264"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20114503%209c50341c-31db-41bf-aa61-9c98a26b1d00.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 38,
+    "number": 39,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 114729 cf244f5d-9971-4348-9695-1d92efd5e81d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6266",
+        "text": "Пат на кој патничките автомобили не смеат да се движат со брзина помала од 50 км/час",
+        "correct": false
+      },
+      {
+        "id": "6267",
+        "text": "Пат, односно дел од патот на кој патничките автомобили не смеат да се движат со брзина поголема од 50 км/час",
+        "correct": true
+      },
+      {
+        "id": "6268",
+        "text": "Растојание од најмалку 50 метри помеѓу патничките автомобили",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6267"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20114729%20cf244f5d-9971-4348-9695-1d92efd5e81d.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 39,
+    "number": 40,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 114841 3fe0d4a1-9f67-4f91-a89b-a03acee61a5a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6269",
+        "text": "Место на кое паркирањето е временски ограничено",
+        "correct": false
+      },
+      {
+        "id": "6270",
+        "text": "Место на кое  паркирањето не е дозволено",
+        "correct": false
+      },
+      {
+        "id": "6271",
+        "text": "Положба при паркирање на возилото",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "6271"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20114841%203fe0d4a1-9f67-4f91-a89b-a03acee61a5a.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 40,
+    "number": 41,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 115000 103ba7cf-0859-4b62-858a-06dd7ddb8cf9.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6272",
+        "text": "Задолжителна употреба на очила за сонце",
+        "correct": false
+      },
+      {
+        "id": "6273",
+        "text": "Близина на дел од патот на кој можат да се појават слепи лица",
+        "correct": true
+      },
+      {
+        "id": "6274",
+        "text": "Место на дел од патот каде видливоста е намалена",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6273"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20115000%20103ba7cf-0859-4b62-858a-06dd7ddb8cf9.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 41,
+    "number": 42,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 115215 c42e7bd1-c48e-44dd-85c1-2cc64905496f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6275",
+        "text": "Близина на место на патот каде што се наоѓа опрема за смирување на сообраќајот (издадености)",
+        "correct": true
+      },
+      {
+        "id": "6276",
+        "text": "Место на патот каде има вдлабнатини",
+        "correct": false
+      },
+      {
+        "id": "6277",
+        "text": "Близина на место на патот каде има неутврдена банкина",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6275"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20115215%20c42e7bd1-c48e-44dd-85c1-2cc64905496f.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 42,
+    "number": 43,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 115510 54464e6f-c306-48b9-8edf-111207405907.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6278",
+        "text": "Дел од патот каде е забрането движење на постари лица",
+        "correct": false
+      },
+      {
+        "id": "6279",
+        "text": "Близина на дел од патот каде можат да се појават постари и изнемоштени лица",
+        "correct": true
+      },
+      {
+        "id": "6280",
+        "text": "Патека каде задолжително треба да се движат постари лица",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6279"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20115510%2054464e6f-c306-48b9-8edf-111207405907.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 43,
+    "number": 44,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 115731 0d648f19-592d-4b92-beeb-85fbb85dc6e0.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6281",
+        "text": "Време во кое е дозволен сообраќај на возилата во една насока",
+        "correct": false
+      },
+      {
+        "id": "6282",
+        "text": "Време во кое важи забраната за запирање и паркирање",
+        "correct": false
+      },
+      {
+        "id": "6283",
+        "text": "Време во кое важи забраната за паркирање",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "6283"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20115731%200d648f19-592d-4b92-beeb-85fbb85dc6e0.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 44,
+    "number": 45,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 120108 da29538d-2cc4-4d01-bad8-3addffbea6d6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6284",
+        "text": "Должина од 500 метри на дел од патот на кој има одронето камења",
+        "correct": false
+      },
+      {
+        "id": "6285",
+        "text": "Должина од 500 метри на дел од патот на кој постои опасност од прскање на камења",
+        "correct": false
+      },
+      {
+        "id": "6286",
+        "text": "Оддалеченост од 500 метри од знакот до местото каде постои опасност од одрон на камења или камења што се наоѓаат на патот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "6286"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20120108%20da29538d-2cc4-4d01-bad8-3addffbea6d6.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 45,
+    "number": 46,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 120307 94821036-6c7b-4639-a382-518a7ba7fb77.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6287",
+        "text": "Задолжителна\n употреба на синџири за снег на погонските тркала на возилото во должина\n од 1000 метри  од   местото на поставениот знак",
+        "correct": true
+      },
+      {
+        "id": "6288",
+        "text": "Оддалеченост од 1000 метри од знакот до местото на патот на кој постои опасност од појава на снег",
+        "correct": false
+      },
+      {
+        "id": "6289",
+        "text": "Задолжителна употреба на синџири за снег по целата должина на патот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6287"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20120307%2094821036-6c7b-4639-a382-518a7ba7fb77.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 46,
+    "number": 47,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 120500 54e3f6f5-80c7-4124-b6d2-25cb33110a19.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6290",
+        "text": "Оддалеченост од 500 метри од знакот до местото каде започнува одвивање на сообраќајот во двете насоки",
+        "correct": false
+      },
+      {
+        "id": "6291",
+        "text": "Сообраќај во две насоки на дел од  патот во должина од 500 метри",
+        "correct": true
+      },
+      {
+        "id": "6292",
+        "text": "Должина од 500 метри на патот на кој сообраќајот се одвива во една насока",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6291"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20120500%2054e3f6f5-80c7-4124-b6d2-25cb33110a19.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 47,
+    "number": 48,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 120638 dc32cff7-6fe2-476b-b014-05e33d3dc9a2.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6293",
+        "text": "Должина од 500 метри на дел од патот на кој важи забраната за престигнување за товарни моторни возила",
+        "correct": true
+      },
+      {
+        "id": "6294",
+        "text": "Должина од 500 метри  на дел од  патот на кој престигнувањето на моторните возила е дозволено",
+        "correct": false
+      },
+      {
+        "id": "6295",
+        "text": "Оддалеченост од 500 метри од местото каде започнува забраната за престигнување на товарни моторни возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6293"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20120638%20dc32cff7-6fe2-476b-b014-05e33d3dc9a2.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 48,
+    "number": 49,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 120838 24e278f7-9a67-43b3-a250-ddd853b6d033.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6296",
+        "text": "Место каде забраната за запирање се однесува на станарите за објектот каде е поставен знакот",
+        "correct": false
+      },
+      {
+        "id": "6297",
+        "text": "Место каде забраната за запирање и паркирање се однесува за станарите на објектот каде е поставен знакот",
+        "correct": false
+      },
+      {
+        "id": "6298",
+        "text": "Забраната за запирање и паркирање не се однесува за станарите на објектот каде  е поставен сообраќајниот знак",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "6298"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20120838%2024e278f7-9a67-43b3-a250-ddd853b6d033.jpg",
+    "topic": "supplementary-plates"
+  },
+  {
+    "index": 49,
+    "number": 50,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Дополнителната табла поставена под сообраќајниот знак означува:",
+    "image": "assets/images/30102012 121035 cffb3292-4e41-45a1-9493-83acaf42014e.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6299",
+        "text": "Вдлабнатина на дел од патот на оддалеченост од 500 метри од поставениот сообраќаен знак",
+        "correct": true
+      },
+      {
+        "id": "6300",
+        "text": "Вдлабнатина на дел од патот во должина од 500 метри",
+        "correct": false
+      },
+      {
+        "id": "6301",
+        "text": "Издаденост на дел од патот на оддалеченост од 500 метри од поставениот сообраќаен знак",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "6299"
+    ],
+    "images": [],
+    "point_value": 2,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/30102012%20121035%20cffb3292-4e41-45a1-9493-83acaf42014e.jpg",
+    "topic": "supplementary-plates"
+  }
+]

@@ -1,0 +1,2810 @@
+[
+  {
+    "index": 90,
+    "number": 91,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Знакот\n што го дава униформираниот полициски службеник со кружно движење на \nраката во лактот, од десно кон лево (како на сликата) означува:",
+    "image": "assets/images/13092012 113135 31375ab6-5ba4-4bd1-9250-52ec3b60b8e6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3138",
+        "text": "возачот кому се дава овој знак треба да ја намали брзината на движење на возилото",
+        "correct": false
+      },
+      {
+        "id": "3139",
+        "text": "возачот кому се дава овој знак треба да го забрза движењето на возилото",
+        "correct": true
+      },
+      {
+        "id": "3140",
+        "text": "возачот задолжително да го запре возилото",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3139"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113135%2031375ab6-5ba4-4bd1-9250-52ec3b60b8e6.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 91,
+    "number": 92,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото\n на полиција (како на сликата) со вклучени две сини ротирачки светла, \nкое обезбедува минување на едно возило или колона на возила, припаѓа во \nгрупата на:",
+    "image": "assets/images/13092012 113408 7468cea8-bac3-49ad-812c-a445324ff605.gif",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3141",
+        "text": "возила под придружба",
+        "correct": false
+      },
+      {
+        "id": "3142",
+        "text": "возила со право на првенство на минување",
+        "correct": true
+      },
+      {
+        "id": "3143",
+        "text": "возила за посебни намени",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3142"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113408%207468cea8-bac3-49ad-812c-a445324ff605.gif",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 92,
+    "number": 93,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Една рака подигната вертикално со отворена дланка на униформираниот полициски службеник (како на сликата) означува:",
+    "image": "assets/images/13092012 113438 7baec0f1-ec36-4dc1-8c1d-71352f13d116.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3144",
+        "text": "возилата да ја намалат брзината на движење",
+        "correct": false
+      },
+      {
+        "id": "3145",
+        "text": "задолжително запирање за сите учесници во сообраќајот",
+        "correct": true
+      },
+      {
+        "id": "3146",
+        "text": "задолжително запирање само за возилата кои доаѓаат од насоките на градите и грбот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3145"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113438%207baec0f1-ec36-4dc1-8c1d-71352f13d116.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 93,
+    "number": 94,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Знакот\n што го дава униформираниот полициски службеник со движење на отворена \nдланка горе-долу (како на сликата), за возачите во чија насока се дава \nзнакот означува:",
+    "image": "assets/images/13092012 113502 83f0ea7c-a333-402b-84f9-61ccc5169487.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3147",
+        "text": "да ја зголемат брзината на движење",
+        "correct": false
+      },
+      {
+        "id": "3148",
+        "text": "да ја намалат брзината на движење",
+        "correct": true
+      },
+      {
+        "id": "3149",
+        "text": "да ги запрат возилата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3148"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113502%2083f0ea7c-a333-402b-84f9-61ccc5169487.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 94,
+    "number": 95,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Хоризонтално испружена рака на униформираниот полициски службеник (како на сликата), означува:",
+    "image": "assets/images/13092012 113524 b154f2c9-a0f6-4064-99fb-fb1f1b48944d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3150",
+        "text": "забранет сообраќај за сите возила",
+        "correct": false
+      },
+      {
+        "id": "3151",
+        "text": "забрането минување за сите учесници во сообраќајот чија насока на движење го сече правецот на испружената рака",
+        "correct": true
+      },
+      {
+        "id": "3152",
+        "text": "забрането минување за сите возила во насока на испружената рака",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3151"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113524%20b154f2c9-a0f6-4064-99fb-fb1f1b48944d.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 95,
+    "number": 96,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Хоризонтално испружена рака на униформираниот полициски службеник со отворена дланка (како на сликата), означува:",
+    "image": "assets/images/13092012 113538 458d1f5d-c5b6-453f-a355-c642a7ac0aad.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3153",
+        "text": "задолжително запирање на сите возила",
+        "correct": false
+      },
+      {
+        "id": "3154",
+        "text": "задолжително запирање на возилото кон кое е насочена отворената дланка",
+        "correct": true
+      },
+      {
+        "id": "3155",
+        "text": "намалување на брзината на возилото кон кое е насочена дланката",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3154"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113538%20458d1f5d-c5b6-453f-a355-c642a7ac0aad.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 96,
+    "number": 97,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "На\n крстосница каде во краток временски период сообраќајот истовремено е \nрегулиран со униформиран полициски службеник и светлосни сообраќајни \nзнаци, возачите ќе постапуваат:",
+    "image": "assets/images/13092012 113555 ef0a2306-c748-40eb-b026-4506424237f9.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3156",
+        "text": "според знаците кои ги дава униформираниот полициски службеник",
+        "correct": true
+      },
+      {
+        "id": "3157",
+        "text": "според светлосните сообраќајни знаци",
+        "correct": false
+      },
+      {
+        "id": "3158",
+        "text": "според правилото од десна страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3156"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113555%20ef0a2306-c748-40eb-b026-4506424237f9.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 97,
+    "number": 98,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Положбата на телото и рацете на униформираниот полициски службеник (како на сликата), означува забрането минување:",
+    "image": "assets/images/13092012 113613 7a23b39d-1e63-4926-9788-c2d4514c8bb4.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3159",
+        "text": "на возилата кои доаѓаат од насока на грбот и градите",
+        "correct": true
+      },
+      {
+        "id": "3160",
+        "text": "на возилата кои доаѓаат од насока на бочните страни",
+        "correct": false
+      },
+      {
+        "id": "3161",
+        "text": "на сите возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3159"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113613%207a23b39d-1e63-4926-9788-c2d4514c8bb4.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 98,
+    "number": 99,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според положбата на телото и рацете на униформираниот полициски службеник како на сликата, дозволено е минување на:",
+    "image": "assets/images/13092012 123036 ec83e07c-1d8c-4ee6-9bfb-6bd66e2a70ea.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4886",
+        "text": "возилата кои доаѓаат од насока на грбот и градите",
+        "correct": false
+      },
+      {
+        "id": "4887",
+        "text": "возилата кои доаѓаат од насока на бочните страни",
+        "correct": true
+      },
+      {
+        "id": "4888",
+        "text": "сите возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4887"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20123036%20ec83e07c-1d8c-4ee6-9bfb-6bd66e2a70ea.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 99,
+    "number": 100,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на возилото, кон кое униформираниот полициски службеник го дава знакот \n со помош на табличка (како на сликата), должен е:",
+    "image": "assets/images/12112012 094346 29f456fa-b965-44a8-8ea0-93af0eca8ed0.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4853",
+        "text": "внимателно да продолжи со движењето",
+        "correct": false
+      },
+      {
+        "id": "4854",
+        "text": "да ја намали брзината на движењето",
+        "correct": false
+      },
+      {
+        "id": "4855",
+        "text": "да го запре возилото",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4855"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20094346%2029f456fa-b965-44a8-8ea0-93af0eca8ed0.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 100,
+    "number": 101,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Вертикално подигната  рака  на униформираниот полициски службеник со палка во дланката (како на сликата), значи:",
+    "image": "assets/images/12112012 095013 18797ca5-801d-4290-9b46-4634807b8a28.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4862",
+        "text": "возилата да ја намалат брзината на движење",
+        "correct": false
+      },
+      {
+        "id": "4863",
+        "text": "задолжително запирање, само за возилата кои доаѓаат од насоките  на градите и грбот",
+        "correct": false
+      },
+      {
+        "id": "4864",
+        "text": "задолжително запирање за сите учесници во сообраќајот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4864"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20095013%2018797ca5-801d-4290-9b46-4634807b8a28.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 101,
+    "number": 102,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според положбата на телото и рацете на униформираниот полициски службеник како на сликата , забрането е минување на:",
+    "image": "assets/images/12112012 095034 b91e72e0-a485-41f0-8c49-0882cec5cfff.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4865",
+        "text": "возилата кои доаѓаат од насока на грбот и градите",
+        "correct": true
+      },
+      {
+        "id": "4866",
+        "text": "возилата кои доаѓаат од насока на бочните страни",
+        "correct": false
+      },
+      {
+        "id": "4867",
+        "text": "сите возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4865"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20095034%20b91e72e0-a485-41f0-8c49-0882cec5cfff.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 102,
+    "number": 103,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Хоризонтално испружена рака на униформираниот полициски службеник со палка  во дланката (како на сликата), означува:",
+    "image": "assets/images/12112012 095333 d7b0a187-6f67-404a-9711-eabfee1c0dc8.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4868",
+        "text": "забранет сообраќај за сите возила",
+        "correct": false
+      },
+      {
+        "id": "4869",
+        "text": "забрането минување за сите учесници во сообраќајот чија насока на движење го сече правецот на  испружената рака",
+        "correct": true
+      },
+      {
+        "id": "4870",
+        "text": "задолжителено минување за сите возила во насока на испружената рака",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4869"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20095333%20d7b0a187-6f67-404a-9711-eabfee1c0dc8.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 103,
+    "number": 104,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Хоризонтално испружена рака на униформираниот полициски службеник со отворена дланка (како на сликата) означува:",
+    "image": "assets/images/12112012 095520 98a2ebb1-6315-4967-8035-251336564c64.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4871",
+        "text": "задолжително запирање на сите возила",
+        "correct": false
+      },
+      {
+        "id": "4872",
+        "text": "намалување на брзината на возилото кон кое е насочена дланката",
+        "correct": false
+      },
+      {
+        "id": "4873",
+        "text": "задолжително запирање на возилото кон кое е насочена отворената дланка",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4873"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20095520%2098a2ebb1-6315-4967-8035-251336564c64.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 104,
+    "number": 105,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според положбата на телото и рацете на униформираниот полициски службеник како на сликата,  дозволено е минување на:",
+    "image": "assets/images/12112012 095747 ecdf8dc9-5563-46e1-8d40-f93a34a46804.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4874",
+        "text": "возилата кои доаѓаат од насока на грбот и градите",
+        "correct": false
+      },
+      {
+        "id": "4875",
+        "text": "возилата кои доаѓаат од насока на бочните страни",
+        "correct": true
+      },
+      {
+        "id": "4876",
+        "text": "возилата кои доаѓаат од насока на грбот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4875"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20095747%20ecdf8dc9-5563-46e1-8d40-f93a34a46804.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 105,
+    "number": 106,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според положбата на телото и рацете на униформираниот полициски службеник како на сликата,  дозволено е минување на:",
+    "image": "assets/images/12112012 102822 6b0eb502-26f0-46e9-af05-8203444b8431.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4877",
+        "text": "возилата кои доаѓаат од насока на грбот и градите",
+        "correct": false
+      },
+      {
+        "id": "4878",
+        "text": "возилата кои доаѓаат од насока на бочните страни",
+        "correct": true
+      },
+      {
+        "id": "4879",
+        "text": "возилата кои свртуваат десно на крстосницата",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4878"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20102822%206b0eb502-26f0-46e9-af05-8203444b8431.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 106,
+    "number": 107,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот\n на возилото, кон кое  униформираниот полициски службеник го дава знакот\n  со помош на табличка од полициско возило (како на сликата), должен е:",
+    "image": "assets/images/12112012 103122 16cfe6b7-053a-4a87-8c49-f37bb6cd58ee.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4880",
+        "text": "да ја намали брзината на движењето",
+        "correct": false
+      },
+      {
+        "id": "4881",
+        "text": "внимателно да продолжи со движењето",
+        "correct": false
+      },
+      {
+        "id": "4882",
+        "text": "задолжително да го запре возилото",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4882"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20103122%2016cfe6b7-053a-4a87-8c49-f37bb6cd58ee.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 107,
+    "number": 108,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Звучниот знак  “еден краток свиреж“  што го дава униформираниот полициски службеник,значи:",
+    "image": "assets/images/12112012 103314 a9c5b353-2660-4da8-8603-119b813885c0.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4883",
+        "text": "обврска за возачите да ги запрат возилата",
+        "correct": false
+      },
+      {
+        "id": "4884",
+        "text": "повик до возачите да обрнат внимание кон полицискиот службеник, кој со соодветен знак ќе изрази определено барање",
+        "correct": true
+      },
+      {
+        "id": "4885",
+        "text": "дека\n некој од учесниците во сообраќајот постапил спротивно на знакот на \nправилата на сообраќајот или на поставените сообраќајни знаци",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4884"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/12112012%20103314%20a9c5b353-2660-4da8-8603-119b813885c0.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 108,
+    "number": 109,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Униформираниот полициски службеник при регулирање на сообраќајот на крстосницата (како на сликата):",
+    "image": "assets/images/13092012 113640 8b6db27c-cdf8-4f0e-9a87-fd0b84982e36.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3162",
+        "text": "може да користи табличка за регулирање на сообраќајот",
+        "correct": true
+      },
+      {
+        "id": "3163",
+        "text": "не смее да користи табличка за регулирање на сообраќајот",
+        "correct": false
+      },
+      {
+        "id": "3164",
+        "text": "може да користи табличка само доколку знакот се дава од возило",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3162"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113640%208b6db27c-cdf8-4f0e-9a87-fd0b84982e36.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 109,
+    "number": 110,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возач\n кој на пат ќе наиде на возило на полицијата (како на сликата), кое \nобезбедува минување на едно возило или колона возила, должен e:",
+    "image": "assets/images/13092012 113700 77fe9f7d-77cb-4d8a-b1b1-3c486c73d326.gif",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3165",
+        "text": "да обрне внимание и да ги пропушти возилата на кои им се обезбедува минување, а по потреба и да го запре своето возило",
+        "correct": true
+      },
+      {
+        "id": "3166",
+        "text": "да забрза со движењето, за да им отстапи простор на овие возила",
+        "correct": false
+      },
+      {
+        "id": "3167",
+        "text": "задолжително да го исклучи возилото од сообраќај",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3165"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113700%2077fe9f7d-77cb-4d8a-b1b1-3c486c73d326.gif",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 110,
+    "number": 111,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлосниот\n знак со постојано црвено светло од светлечка „стоп-табличка” што \nуниформираниот полициски службеник го дава со вертикално движење на \nраката горе-долу, за возачот кон кого се дава знакот значи:",
+    "image": "assets/images/13092012 113740 25c61666-13f8-46bb-a50a-7577fb87353f.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3168",
+        "text": "да ја намали брзината на движење",
+        "correct": false
+      },
+      {
+        "id": "3169",
+        "text": "да продолжи да вози внимателно",
+        "correct": false
+      },
+      {
+        "id": "3170",
+        "text": "да го запре возилото",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3170"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113740%2025c61666-13f8-46bb-a50a-7577fb87353f.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 111,
+    "number": 112,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилата\n со вклучени посебни звучни и светлосни знаци во сина и црвена боја, кои\n имаат право на првенство на минување во однос на сите други возила, \nспаѓаат во групата на:",
+    "image": "assets/images/13092012 113757 20624ed7-167b-4428-bee1-30f2fc5e60f8.gif",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3171",
+        "text": "возила на противпожарна служба",
+        "correct": false
+      },
+      {
+        "id": "3172",
+        "text": "возила под придружба",
+        "correct": true
+      },
+      {
+        "id": "3173",
+        "text": "возила на итна помош",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3172"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113757%2020624ed7-167b-4428-bee1-30f2fc5e60f8.gif",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 112,
+    "number": 113,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Во\n случај кога возач на возило на итна помош се доближува кон крстосница \nна која сообраќајот е регулиран од униформиран полициски службеник, \nсвртен со грбот кон него, истиот:",
+    "image": "assets/images/13092012 113814 0c567c7e-edfd-45a8-b07f-54ca4a7ee678.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3174",
+        "text": "ќе мора да причека промена на положбата на телото на униформираниот полициски службеник, за да помине на крстосницата",
+        "correct": true
+      },
+      {
+        "id": "3175",
+        "text": "може да помине доколку му се вклучени посебните светлосни и звучни уреди на возилото",
+        "correct": false
+      },
+      {
+        "id": "3176",
+        "text": "може да помине само во насока право",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3174"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113814%200c567c7e-edfd-45a8-b07f-54ca4a7ee678.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 113,
+    "number": 114,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Звучниот\n знак “еден долг свиреж“ што го дава униформираниот полициски службеник,\n истовремено со вертикално подигната рака, за возачите означува:",
+    "image": "assets/images/13092012 113827 422564de-983d-4368-8553-730101fce8fa.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3177",
+        "text": "задолжително да ја зголемат брзината",
+        "correct": false
+      },
+      {
+        "id": "3178",
+        "text": "задолжително да ја намалат брзината",
+        "correct": false
+      },
+      {
+        "id": "3179",
+        "text": "задолжително запирање на сите возила",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3179"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113827%20422564de-983d-4368-8553-730101fce8fa.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 114,
+    "number": 115,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Дали униформираниот полициски службеник може да ги спушти рацете покрај телото, при регулирање на сообраќајот:",
+    "image": "assets/images/13092012 113851 925a34f6-495c-4111-8826-087007891871.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3180",
+        "text": "може, бидејки таквиот знак има исто значење како и хоризонтално странично испружените раце",
+        "correct": true
+      },
+      {
+        "id": "3181",
+        "text": "не може, бидејки таквиот знак ќе има друго значење",
+        "correct": false
+      },
+      {
+        "id": "3182",
+        "text": "за цело време додека го дава знакот, мора да ги држи странично испружени рацете",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3180"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113851%20925a34f6-495c-4111-8826-087007891871.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 115,
+    "number": 116,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Звучниот знак “повеќе кратки свирежи“ што го дава униформираниот полициски службеник значи:",
+    "image": "assets/images/13092012 113905 d3caac8d-6b7c-4e5c-be33-ead82abe8159.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3183",
+        "text": "обврска за возачите да ги запрат возилата",
+        "correct": false
+      },
+      {
+        "id": "3184",
+        "text": "предупредување за возачите да ја намалат брзината",
+        "correct": false
+      },
+      {
+        "id": "3185",
+        "text": "дека некој од учесниците во сообраќајот постапил спротивно од правилата на сообраќајот или на поставените сообраќајни знаци",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3185"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113905%20d3caac8d-6b7c-4e5c-be33-ead82abe8159.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 116,
+    "number": 117,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "За возилата под придружба кога се движат на автопат како на сликата:",
+    "image": "assets/images/15112012 083313 b7942860-f7f1-4cb5-8748-c8d4b424e1fe.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4889",
+        "text": "брзината на движење се ограничува на 100 км/час",
+        "correct": false
+      },
+      {
+        "id": "4890",
+        "text": "брзината на движење се ограничува на 130 км/час",
+        "correct": false
+      },
+      {
+        "id": "4891",
+        "text": "не се применува одредбата за ограничување на брзината на движење",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4891"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20083313%20b7942860-f7f1-4cb5-8748-c8d4b424e1fe.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 117,
+    "number": 118,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот кој на пат ќе сретне или ќе биде престигнат од возило или колона возила под придружба (како на сликата), должен е:",
+    "image": "assets/images/15112012 083435 9aad4d5c-3577-4ecf-aafd-1bc956b024eb.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4892",
+        "text": "да го запре своето возило и строго да се придржува кон наредбите што му ги даваат лицата од придружбата",
+        "correct": true
+      },
+      {
+        "id": "4893",
+        "text": "да ги пропушти возилата под придружба, а по потреба и да го запре возилото",
+        "correct": false
+      },
+      {
+        "id": "4894",
+        "text": "да ја намали брзината на движењето и да го помести возилото кон десниот раб на коловозот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4892"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20083435%209aad4d5c-3577-4ecf-aafd-1bc956b024eb.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 118,
+    "number": 119,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото\n прикажано на сликата, кога ги има вклучено посебните уреди за давање на\n светлосни и звучни знаци, припаѓа во групата на:",
+    "image": "assets/images/15112012 083536 cfaabc47-d4bc-4313-8845-f9d1ad8be1ad.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4895",
+        "text": "возила за воени дејствија",
+        "correct": false
+      },
+      {
+        "id": "4896",
+        "text": "возила  со првенство на минување",
+        "correct": true
+      },
+      {
+        "id": "4897",
+        "text": "возила под придружба",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4896"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20083536%20cfaabc47-d4bc-4313-8845-f9d1ad8be1ad.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 119,
+    "number": 120,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилата\n на кои им е доделена придружба од возила на полиција  снабдени со уреди\n за давање на посебни светлосни и звучни знаци (како на сликата), \nприпаѓаат во групата на:",
+    "image": "assets/images/15112012 083649 e220af14-90d4-4d12-b3af-e798aec84b0b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4898",
+        "text": "возила на инспекција на патиштата",
+        "correct": false
+      },
+      {
+        "id": "4899",
+        "text": "возила под придружба",
+        "correct": true
+      },
+      {
+        "id": "4900",
+        "text": "возила со првенство на минување",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4899"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20083649%20e220af14-90d4-4d12-b3af-e798aec84b0b.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 120,
+    "number": 121,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото\n прикажано на сликата, кога ги има вклучено посебните уреди за давање на\n светлосни и звучни знаци, припаѓа во групата на:",
+    "image": "assets/images/15112012 083802 0b2c3df2-097f-4a28-8ba9-73d22e83c1ec.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4901",
+        "text": "возила под придружба",
+        "correct": false
+      },
+      {
+        "id": "4902",
+        "text": "трезорски возила",
+        "correct": false
+      },
+      {
+        "id": "4903",
+        "text": "возила  со првенство на минување",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4903"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20083802%200b2c3df2-097f-4a28-8ba9-73d22e83c1ec.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 121,
+    "number": 122,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото\n што е наменето за одржување на патишта (како на сликата) задолжително \nтреба да има вградено најмалку едно ротирачко светло, што дава светлина \nво:",
+    "image": "assets/images/15112012 083950 61fd3a10-fd47-4d9b-aeec-e9d9eaf40669.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4904",
+        "text": "сина боја",
+        "correct": false
+      },
+      {
+        "id": "4905",
+        "text": "жолта боја",
+        "correct": true
+      },
+      {
+        "id": "4906",
+        "text": "црвена боја",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4905"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20083950%2061fd3a10-fd47-4d9b-aeec-e9d9eaf40669.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 122,
+    "number": 123,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото\n прикажано на сликата, кога ги има вклучено посебните уреди за давање на\n светлосни и звучни знаци, припаѓа во групата на:",
+    "image": "assets/images/15112012 084047 86ec9d64-b415-4ddf-abf7-2e477dba53cc.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4907",
+        "text": "возила  со првенство на минување",
+        "correct": true
+      },
+      {
+        "id": "4908",
+        "text": "трезорски возила",
+        "correct": false
+      },
+      {
+        "id": "4909",
+        "text": "возила под придружба",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4907"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20084047%2086ec9d64-b415-4ddf-abf7-2e477dba53cc.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 123,
+    "number": 124,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот,\n кој ќе наиде на возило со вградено најмалку едно ротирачко светло што \nдава светлина во жолта боја (како на сликата) должен е:",
+    "image": "assets/images/15112012 084543 5f98f418-c587-4540-86d1-29f95adf639a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4910",
+        "text": "да вози со посебно внимание и по потреба да го запре своето возило",
+        "correct": true
+      },
+      {
+        "id": "4911",
+        "text": "да го забрза движењето на своето возило",
+        "correct": false
+      },
+      {
+        "id": "4912",
+        "text": "да се исклучи од сообраќај на првиот приклучен пат  и да продолжи со движењето на друг коловоз",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4910"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20084543%205f98f418-c587-4540-86d1-29f95adf639a.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 124,
+    "number": 125,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот,\n  кој ќе наиде на возило за одржување на патишта со вградено најмалку \nедно ротирачко светло што дава светлина во жолта боја (како на сликата),\n должен е:",
+    "image": "assets/images/15112012 084718 a72e1d33-6c64-4805-843c-b3ab7b5fac9a.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4913",
+        "text": "да го забрза движењето на своето возило",
+        "correct": false
+      },
+      {
+        "id": "4914",
+        "text": "да се исклучи од сообраќај на првиот приклучен пат",
+        "correct": false
+      },
+      {
+        "id": "4915",
+        "text": "да вози со посебно внимание и по потреба да го запре своето возило",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4915"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20084718%20a72e1d33-6c64-4805-843c-b3ab7b5fac9a.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 125,
+    "number": 126,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возилото прикажано на сликата припаѓа во групата на возила со првенство на минување и треба да биде означено со:",
+    "image": "assets/images/15112012 084849 e0baef6e-40f2-4cd6-92e1-d35628945414.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4916",
+        "text": "едно ротирачко светло во портокалова или жолта боја",
+        "correct": false
+      },
+      {
+        "id": "4917",
+        "text": "две ротирачки светла, од кои едно во црвена и едно во сина боја",
+        "correct": false
+      },
+      {
+        "id": "4918",
+        "text": "најмалку едно ротирачко светло во сина боја",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4918"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20084849%20e0baef6e-40f2-4cd6-92e1-d35628945414.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 126,
+    "number": 127,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Непрекинатиот жолт светлосен сигнал прикажан на сликата, на уредот за давање на светлосни сообраќајни знаци (семафор), означува:",
+    "image": "assets/images/13092012 113939 fce910f1-ec96-4072-9eca-0b3302abfc21.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3186",
+        "text": "неисправност на семафорот",
+        "correct": false
+      },
+      {
+        "id": "3187",
+        "text": "слободно минување на возилата со зголемена претпазливост",
+        "correct": false
+      },
+      {
+        "id": "3188",
+        "text": "забрана\n за минување, освен за возилата кои во моментот на појава на сигналот се\n наоѓаат на таква оддалеченост и не можат на безбеден начин да запрат \nпред семафорот",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3188"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113939%20fce910f1-ec96-4072-9eca-0b3302abfc21.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 127,
+    "number": 128,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Возачот кој со возилото се приближува кон сообраќајниот знак (како на сликата), должен е:",
+    "image": "assets/images/13092012 113954 6db5b1c6-311e-49ea-9531-8e9b5a6f000d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3189",
+        "text": "да ја намали брзината и да продолжи со движење",
+        "correct": false
+      },
+      {
+        "id": "3190",
+        "text": "да се движи внимателно без обврска да запре доколку нема возила на патот со првенство",
+        "correct": false
+      },
+      {
+        "id": "3191",
+        "text": "задолжително да го запре возилото",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3191"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20113954%206db5b1c6-311e-49ea-9531-8e9b5a6f000d.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 128,
+    "number": 129,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлосните\n сигнали на уредите за давање на светлосни сообраќајни знаци прикажани \nна сликата, жолто трепкаво и жолто непрекинато светло, за возачите:",
+    "image": "assets/images/13092012 114024 3234bf58-8809-4c00-af96-8c3df7d1f774.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3192",
+        "text": "имаат исто значење",
+        "correct": false
+      },
+      {
+        "id": "3193",
+        "text": "имаат различно значење",
+        "correct": true
+      },
+      {
+        "id": "3194",
+        "text": "ги обврзува возачите да ја зголемат брзината на движењето",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3193"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114024%203234bf58-8809-4c00-af96-8c3df7d1f774.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 129,
+    "number": 130,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлосните сигнали на уредот за давање на светлосни сообраќајни знаци прикажани на сликата, означуваат:",
+    "image": "assets/images/13092012 114040 100331e5-95b8-45fb-b73f-fde97cca820c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3195",
+        "text": "дозволено минување на возилата во сите правци на движење",
+        "correct": false
+      },
+      {
+        "id": "3196",
+        "text": "дозволено минување на возилата во насока лево и насока десно",
+        "correct": true
+      },
+      {
+        "id": "3197",
+        "text": "дозволено минување на возилата во насока десно и право",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3196"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114040%20100331e5-95b8-45fb-b73f-fde97cca820c.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 130,
+    "number": 131,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според светлосните сигнали на уредот за давање на светлосни сообраќајни знаци прикажани на сликата:",
+    "image": "assets/images/13092012 114100 5177adc5-11cd-4b94-93f6-0f698338886e.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3198",
+        "text": "дозволено е минување во насока право и десно",
+        "correct": false
+      },
+      {
+        "id": "3199",
+        "text": "забрането е минување во насока право, а дозволено во насока десно",
+        "correct": true
+      },
+      {
+        "id": "3200",
+        "text": "дозволено е минување само во насока лево",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3199"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114100%205177adc5-11cd-4b94-93f6-0f698338886e.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 131,
+    "number": 132,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлосните сигнали вклучени на уредот за давање на светлосни сообраќајни знаци (прикажани на сликата), означуваат:",
+    "image": "assets/images/13092012 114113 2a564917-8fae-477d-80a4-49ba0fa04637.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3201",
+        "text": "слободно минување на возилата во сите правци",
+        "correct": false
+      },
+      {
+        "id": "3202",
+        "text": "забрането минување во насока право и лево, а дозволено во насока десно",
+        "correct": false
+      },
+      {
+        "id": "3203",
+        "text": "забрането минување во насока лево, а дозволено е во насока право и насока десно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3203"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114113%202a564917-8fae-477d-80a4-49ba0fa04637.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 132,
+    "number": 133,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според светлосниот знак на уредот за давање на светлосни сообраќајни знаци (прикажан на сликата):",
+    "image": "assets/images/13092012 114127 174c612f-c942-407e-a8fa-d96e03c9648c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3204",
+        "text": "не може да свртите десно, бидејќи нема дополнителна зелена светлечка стрелка",
+        "correct": false
+      },
+      {
+        "id": "3205",
+        "text": "имате дозволен премин во сите правци",
+        "correct": true
+      },
+      {
+        "id": "3206",
+        "text": "имате дозволен премин само во насока право",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3205"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114127%20174c612f-c942-407e-a8fa-d96e03c9648c.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 133,
+    "number": 134,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Сообраќајниот знак поставен над уредот за давање светлосни сообраќајни знаци (како на сликата), пред крстосница има значење:",
+    "image": "assets/images/13092012 114151 ecf36f8a-8514-4759-bc8f-4c45da1b7cb5.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3207",
+        "text": "наидување на спореден пат",
+        "correct": false
+      },
+      {
+        "id": "3208",
+        "text": "крстосување со пат со првенство на минување",
+        "correct": true
+      },
+      {
+        "id": "3209",
+        "text": "опасност на патот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3208"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114151%20ecf36f8a-8514-4759-bc8f-4c45da1b7cb5.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 134,
+    "number": 135,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлосниот знак на уредот за давање на светлосни сообраќајни знаци прикажан на сликата, служи  за регулирање на сообраќајот на:",
+    "image": "assets/images/15112012 090035 9afd2eea-8b92-41c5-8e32-6dd51da93327.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4919",
+        "text": "товарни моторни возила и автобуси",
+        "correct": false
+      },
+      {
+        "id": "4920",
+        "text": "возила со првенство на минување",
+        "correct": false
+      },
+      {
+        "id": "4921",
+        "text": "трамваj",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4921"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20090035%209afd2eea-8b92-41c5-8e32-6dd51da93327.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 135,
+    "number": 136,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Непрекинатиот жолт светлосен сигнал на  уредот за давање на светлосни сообраќајни знаци (прикажан на сликата), означува:",
+    "image": "assets/images/15112012 090259 13e8cb5f-6975-4d6b-928f-12cc22ad6a28.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4922",
+        "text": "дека уредот за давање на светлосни сообраќајни знаци за лево не работи",
+        "correct": false
+      },
+      {
+        "id": "4923",
+        "text": "забрана\n на минување за лево, освен на возилата кои се наоѓаат на таква \nоддалеченост пред семафорот кои не можат на безбеден начин да запрат",
+        "correct": true
+      },
+      {
+        "id": "4924",
+        "text": "наскоро престанување на забраната за минување за лево и појава на зелено светло",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4923"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20090259%2013e8cb5f-6975-4d6b-928f-12cc22ad6a28.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 136,
+    "number": 137,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според светлосните сигнали на  уредот за давање на светлосни сообраќајни знаци прикажани како на сликата:",
+    "image": "assets/images/15112012 090411 5eb1b27f-86d7-4aa0-afa3-f2424dccad28.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4925",
+        "text": "дозволено е минување  во насока десно",
+        "correct": false
+      },
+      {
+        "id": "4926",
+        "text": "забрането е минување  во насока десно и лево, а дозволено во насока право",
+        "correct": true
+      },
+      {
+        "id": "4927",
+        "text": "забрането  е минување само во насока право",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4926"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20090411%205eb1b27f-86d7-4aa0-afa3-f2424dccad28.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 137,
+    "number": 138,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлата на уредот за давање на светлосни сообраќајни знаци (како на сликата), за учесниците во сообраќајот, означуваат:",
+    "image": "assets/images/15112012 090526 a731969e-9776-4968-9057-28865b449f9e.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4928",
+        "text": "блиско престанување на забрана на минување и појава на зелено светло",
+        "correct": true
+      },
+      {
+        "id": "4929",
+        "text": "обврска  да се движат со зголемена претпазливост, бидејки семафорот е неисправен",
+        "correct": false
+      },
+      {
+        "id": "4930",
+        "text": "најава  за скоро појавување на црвеното светло",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4928"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20090526%20a731969e-9776-4968-9057-28865b449f9e.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 138,
+    "number": 139,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлата на уредот за давање на светлосни сообраќајни знаци (како на сликата), означуваат:",
+    "image": "assets/images/15112012 090633 443d1e98-6aa7-4f2d-afe7-b45b4b15c5bb.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4931",
+        "text": "обврска за учесниците во сообраќајот  да  се движат со зголемена претпазливост, бидејки семафорот е неисправен",
+        "correct": false
+      },
+      {
+        "id": "4932",
+        "text": "најава за учесниците во сообраќајот  за скоро појавување на црвеното светло",
+        "correct": false
+      },
+      {
+        "id": "4933",
+        "text": "блиско престанување на забрана на минување и појава на зелено светло",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4933"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20090633%20443d1e98-6aa7-4f2d-afe7-b45b4b15c5bb.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 139,
+    "number": 140,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според  начинот на кој е регулиран сообраќајот на крстосницата како на сликата, возачот  е должен:",
+    "image": "assets/images/15112012 090738 59344c28-696f-4f97-913e-9990a99a96ca.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4934",
+        "text": "да го запре  возилото",
+        "correct": false
+      },
+      {
+        "id": "4935",
+        "text": "да запре со возилото само доколку има стоп линија",
+        "correct": false
+      },
+      {
+        "id": "4936",
+        "text": "да продолжи со движењето",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4936"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20090738%2059344c28-696f-4f97-913e-9990a99a96ca.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 140,
+    "number": 141,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според светлосниот знак на уредот за давање на светлосни собраќајни знаци, прикажан на сликата:",
+    "image": "assets/images/15112012 090925 bb104c66-e9a0-425c-9a53-451ec8048e54.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4937",
+        "text": "забрането е  свртување налево",
+        "correct": false
+      },
+      {
+        "id": "4938",
+        "text": "дозволено е свртување во насока лево",
+        "correct": true
+      },
+      {
+        "id": "4939",
+        "text": "дозволено е движењето во сите правци",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4938"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20090925%20bb104c66-e9a0-425c-9a53-451ec8048e54.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 141,
+    "number": 142,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Светлосниот знаk  поставен на влезот на сообраќајна површина наменета за паркирање на возилата (како на сликата), означува:",
+    "image": "assets/images/15112012 091030 85c35a82-447d-4a91-a802-963915004e0e.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4940",
+        "text": "забранет влез, бидејки нема слободни места за паркирање",
+        "correct": true
+      },
+      {
+        "id": "4941",
+        "text": "слободен влез на паркинг просторот",
+        "correct": false
+      },
+      {
+        "id": "4942",
+        "text": "дозволен влез, бидејки светлосниот уред не функционира",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4940"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20091030%2085c35a82-447d-4a91-a802-963915004e0e.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 142,
+    "number": 143,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Тајмерот поставен над  уредот за давање светлосни сообраќајни знаци (како на сликата) означува:",
+    "image": "assets/images/15112012 091150 175244b0-a80d-4f1f-98e8-17629ecad3bc.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4943",
+        "text": "престанок на забраната за минување на пешаци за 10 минути",
+        "correct": false
+      },
+      {
+        "id": "4944",
+        "text": "престанок на забраната за минување на пешаци за 10 секунди",
+        "correct": true
+      },
+      {
+        "id": "4945",
+        "text": "престанок на забраната за минување на моторните возила за 10 секунди",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4944"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20091150%20175244b0-a80d-4f1f-98e8-17629ecad3bc.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 143,
+    "number": 144,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Тајмерот поставен над  уредот за давање светлосни сообраќајни знаци (како на сликата) означува:",
+    "image": "assets/images/15112012 091304 a8c5bfd1-93ec-482f-a68c-b290f10987f1.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4946",
+        "text": "преостанати минути за слободно минување на пешаци",
+        "correct": false
+      },
+      {
+        "id": "4947",
+        "text": "преостанати секунди за слободно минување на пешаци",
+        "correct": true
+      },
+      {
+        "id": "4948",
+        "text": "број на пешаци кои може да поминат до појавата на црвен светлосен сигнал",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4947"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20091304%20a8c5bfd1-93ec-482f-a68c-b290f10987f1.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 144,
+    "number": 145,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Доколку\n уредот за давање светлосни сообраќајни знаци не работи, сообраќајниот \nзнак како на сликата, им укажува на возачите дека се:",
+    "image": "assets/images/13092012 114218 a8978561-0fa7-4141-9a25-b99774b7a926.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3210",
+        "text": "движат по пат со првенство на минување",
+        "correct": false
+      },
+      {
+        "id": "3211",
+        "text": "вклучуваат или преминуваат преку пат со првенство на минување",
+        "correct": true
+      },
+      {
+        "id": "3212",
+        "text": "вклучуваат на спореден пат",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3211"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114218%20a8978561-0fa7-4141-9a25-b99774b7a926.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 145,
+    "number": 146,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Рабовите\n на коловозот на јавен пат наменет за сообраќај во две насоки, се \nобележуваат со столбчиња кои имаат ретрорефлектирачки ознаки:",
+    "image": "assets/images/13092012 114623 e4776f9a-b441-4f0c-a436-ea199a77f7c4.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3216",
+        "text": "со црвена боја од двете страни на коловозот",
+        "correct": false
+      },
+      {
+        "id": "3217",
+        "text": "со црвена боја од десната страна и бела боја од левата страна на коловозот, во насока на движење на возилото",
+        "correct": true
+      },
+      {
+        "id": "3218",
+        "text": "со бела боја од двете страни на коловозот",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3217"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114623%20e4776f9a-b441-4f0c-a436-ea199a77f7c4.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 146,
+    "number": 147,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Доколку\n возило на полицијата се доближува кон уредот за давање на светлосни \nсообраќајни знаци (како на сликата) и има намера да продолжи во насока \nправо, тогаш:",
+    "image": "assets/images/13092012 114638 1e4ecfe3-fc70-4e38-b7dc-5918029cfd46.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3219",
+        "text": "мора да причека промена на светлосниот знак",
+        "correct": true
+      },
+      {
+        "id": "3220",
+        "text": "може да помине, ако има вклучено посебен звучен и светлосен уред",
+        "correct": false
+      },
+      {
+        "id": "3221",
+        "text": "може да помине, ако нема пешаци",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3219"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114638%201e4ecfe3-fc70-4e38-b7dc-5918029cfd46.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 147,
+    "number": 148,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Ако\n уредот за давање на светлосни сообраќајни знаци е поставен над \nсообраќајната лента, светлата можат да бидат поставени по хоризонтална \nоска, едно покрај друго и тоа:",
+    "image": "assets/images/13092012 114651 f20dd9f3-a025-40da-9628-d31271166102.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3222",
+        "text": "зеленото лево, жолтото во средина, црвеното десно",
+        "correct": false
+      },
+      {
+        "id": "3223",
+        "text": "жолтото лево, зеленото во средина, црвеното десно",
+        "correct": false
+      },
+      {
+        "id": "3224",
+        "text": "црвеното лево, жолтото во средина, зеленото десно",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3224"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114651%20f20dd9f3-a025-40da-9628-d31271166102.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 148,
+    "number": 149,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Зеленото\n трепкаво светло на уредот за давање на светлосни сообраќајни знаци, за \nучесниците во сообраќајот го има следното значење:",
+    "image": "assets/images/13092012 114723 70f0c58b-b2d4-474a-a8d3-ae258631bd22.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3225",
+        "text": "предупредување за блиско престанување на слободното минување и појава на жолто односно црвено светло",
+        "correct": true
+      },
+      {
+        "id": "3226",
+        "text": "подготовка за тргнување и појава на постојано зелено светло",
+        "correct": false
+      },
+      {
+        "id": "3227",
+        "text": "неисправност на уредот за давање на светлосни сообраќајни знаци",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3225"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114723%2070f0c58b-b2d4-474a-a8d3-ae258631bd22.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 149,
+    "number": 150,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Тајмерот поставен над уредот за давање на светлосни сообраќајни знаци (како на сликата) означува:",
+    "image": "assets/images/13092012 114735 6e08c2b3-fe3a-40f2-a864-9fb4a537c6d6.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3228",
+        "text": "број на возила што уште можат да ја поминат крстосницата",
+        "correct": false
+      },
+      {
+        "id": "3229",
+        "text": "престанок на зелениот светлосен сигнал за 10 секунди",
+        "correct": true
+      },
+      {
+        "id": "3230",
+        "text": "преостанато време во минути за слободно минување на зелено светло",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3229"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114735%206e08c2b3-fe3a-40f2-a864-9fb4a537c6d6.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 150,
+    "number": 151,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Во\n зависност од знаците прикажани на сликата, со кои се регулира \nсообраќајот на крстосница, возачот е должен да постапува според:",
+    "image": "assets/images/13092012 114751 fa811aa9-e585-44ea-babb-1baab7a67e51.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3231",
+        "text": "поставениот сообраќаен знак",
+        "correct": false
+      },
+      {
+        "id": "3232",
+        "text": "светлосниот сообраќаен знак",
+        "correct": true
+      },
+      {
+        "id": "3233",
+        "text": "правило од десна страна",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "3232"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114751%20fa811aa9-e585-44ea-babb-1baab7a67e51.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 151,
+    "number": 152,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Жолтото\n трепкаво светло на уредот за давање светлосни сообраќајни знаци (како \nна сликата), за учесниците во сообраќајот го има следното значење:",
+    "image": "assets/images/13092012 114809 86d14e27-6238-4861-8207-8f4ed83413e4.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "3234",
+        "text": "предупредување за престанување на слободно минување и појава на црвено светло",
+        "correct": false
+      },
+      {
+        "id": "3235",
+        "text": "подготовка за тргнување и појава на зелено светло",
+        "correct": false
+      },
+      {
+        "id": "3236",
+        "text": "да се движат со зголемена претпазливост на крстосницата и да ги почитуваат сообраќајните знаци",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "3236"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/13092012%20114809%2086d14e27-6238-4861-8207-8f4ed83413e4.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 152,
+    "number": 153,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според светлосниот знак на уредот за давање на светлосни сообраќајни знаци (како на сликата) дозволено е минување:",
+    "image": "assets/images/15112012 092623 93662335-30ee-4af8-8d4c-83015720f537.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4949",
+        "text": "само за пешаци",
+        "correct": false
+      },
+      {
+        "id": "4950",
+        "text": "само за велосипедисти",
+        "correct": false
+      },
+      {
+        "id": "4951",
+        "text": "за пешаци и велосипедисти",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4951"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20092623%2093662335-30ee-4af8-8d4c-83015720f537.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 153,
+    "number": 154,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според светлосниот знак на уредот за давање на светлосни сообраќајни знаци (како на сликата) забранено е минување:",
+    "image": "assets/images/15112012 092748 6037ff04-15e9-4207-baec-bd451785aa58.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4952",
+        "text": "за пешаци",
+        "correct": true
+      },
+      {
+        "id": "4953",
+        "text": "само за велосипедисти",
+        "correct": false
+      },
+      {
+        "id": "4954",
+        "text": "за моторни возила  и велосипедисти",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4952"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20092748%206037ff04-15e9-4207-baec-bd451785aa58.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 154,
+    "number": 155,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Според светлосниот знак на уредот за давање на светлосни сообраќајни знаци (како на сликата) дозволено е минување:",
+    "image": "assets/images/15112012 092858 5777140d-09c2-4b0e-ab8a-f29a09a9e58b.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "5908",
+        "text": "за пешаци",
+        "correct": true
+      },
+      {
+        "id": "5909",
+        "text": "само за велосипедисти",
+        "correct": false
+      },
+      {
+        "id": "5910",
+        "text": "за моторни возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "5908"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20092858%205777140d-09c2-4b0e-ab8a-f29a09a9e58b.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 155,
+    "number": 156,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Тајмерот поставен на  уредот за давање светлосни сообраќајни знаци (како на сликата) означува:",
+    "image": "assets/images/15112012 093025 fbed1bec-af57-43fd-b878-e8ebd52b3946.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4958",
+        "text": "престанок на црвениот светлосен сигнал за 14 минути",
+        "correct": false
+      },
+      {
+        "id": "4959",
+        "text": "престанок на црвениот светлосен сигнал за 14 секунди",
+        "correct": true
+      },
+      {
+        "id": "4960",
+        "text": "преостанати минути до појавување на зелениот светлосен сигнал",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4959"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20093025%20fbed1bec-af57-43fd-b878-e8ebd52b3946.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 156,
+    "number": 157,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Зелената светлечка стрелка со врвот свртен надолу (како на сликата), поставена над сообраќајната лента означува:",
+    "image": "assets/images/15112012 094748 f4cafbf5-ab2e-4161-8121-a22b11792579.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4961",
+        "text": "слободен тек на сообраќајот по должина на сообраќајната лента",
+        "correct": true
+      },
+      {
+        "id": "4962",
+        "text": "забранет сообраќај по должина на сообраќајната лента",
+        "correct": false
+      },
+      {
+        "id": "4963",
+        "text": "дозволен сообраќај само за шински возила",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4961"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20094748%20f4cafbf5-ab2e-4161-8121-a22b11792579.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 157,
+    "number": 158,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Вкрстените линии со црвена боја (како на сликата), поставени над  сообраќајната лента означуваат:",
+    "image": "assets/images/15112012 094900 a9beda6b-50ad-4767-96d0-ec757e04b6fb.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4964",
+        "text": "наизменичен сообраќај по должина на сообраќајната лента",
+        "correct": false
+      },
+      {
+        "id": "4965",
+        "text": "сообраќајна лента наменета за сообраќај на шински возила",
+        "correct": false
+      },
+      {
+        "id": "4966",
+        "text": "забрана  на сообраќајот по должина на сообраќајната лента",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4966"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20094900%20a9beda6b-50ad-4767-96d0-ec757e04b6fb.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 158,
+    "number": 159,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Жолтата стрелка поставена над сообраќајната лента (како на сликата), со врвот свртен кон десната или левата страна, означува:",
+    "image": "assets/images/15112012 095437 ae029552-2eab-4815-b190-8dfb3bd04a6d.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4967",
+        "text": "сообраќајна лента  наменета за возила со жолто ротирачко светло",
+        "correct": false
+      },
+      {
+        "id": "4968",
+        "text": "промена на текот на сообраќајот од сообраќајната лента над која се наоѓа знакот во соседната сообраќајна лента",
+        "correct": true
+      },
+      {
+        "id": "4969",
+        "text": "дозволен сообраќај за возилата кои се движат по шини",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4968"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20095437%20ae029552-2eab-4815-b190-8dfb3bd04a6d.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 159,
+    "number": 160,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Доколку\n за време на управување со возилото Ви се вклучи контролната сијаличка \nна инструмент  таблата (како на сликата), Ве предупредува на:",
+    "image": "assets/images/15112012 095755 63bef82f-1bf1-474d-9d6a-a1bbc047f62c.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4970",
+        "text": "минимална количина на гориво во резервоарот",
+        "correct": false
+      },
+      {
+        "id": "4971",
+        "text": "низок притисок на масло во моторот",
+        "correct": true
+      },
+      {
+        "id": "4972",
+        "text": "недоволна количина на течност во системот за ладење",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4971"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20095755%2063bef82f-1bf1-474d-9d6a-a1bbc047f62c.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 160,
+    "number": 161,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Доколку\n за време на управување со возилото Ви се вклучи контролната сијаличка \nна инструмент  таблата (како на сликата), Ве предупредува на:",
+    "image": "assets/images/15112012 095941 640ee61c-21fd-49ba-b2cc-f402464cf466.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4973",
+        "text": "минимална количина на гориво во резервоарот",
+        "correct": false
+      },
+      {
+        "id": "4974",
+        "text": "низок притисок на масло во моторот на возилото",
+        "correct": false
+      },
+      {
+        "id": "4975",
+        "text": "зголемена работна температура на моторот на возилото, поради проблеми во системот за ладење",
+        "correct": true
+      }
+    ],
+    "correct": [
+      "4975"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20095941%20640ee61c-21fd-49ba-b2cc-f402464cf466.jpg",
+    "topic": "police-signals-and-lights"
+  },
+  {
+    "index": 161,
+    "number": 162,
+    "categories": [
+      "А",
+      "A1",
+      "Б",
+      "М",
+      "Ф",
+      "Г"
+    ],
+    "question": "Кога свети симболот на инструмент таблата од возилото прикажан на сликата, Ви означува:",
+    "image": "assets/images/15112012 100202 502c293c-b580-4c42-8dd7-b957ab9c0e00.jpg",
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "4976",
+        "text": "вклучени  светла за магла",
+        "correct": false
+      },
+      {
+        "id": "4977",
+        "text": "вклучени долги светла",
+        "correct": true
+      },
+      {
+        "id": "4978",
+        "text": "вклучени греачи на задното ветробранско стакло",
+        "correct": false
+      }
+    ],
+    "correct": [
+      "4977"
+    ],
+    "images": [],
+    "point_value": 5,
+    "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/Testovi-so-tocni-odgovori/mk/allquestions-mk.aspx_files/15112012%20100202%20502c293c-b580-4c42-8dd7-b957ab9c0e00.jpg",
+    "topic": "police-signals-and-lights"
+  }
+]

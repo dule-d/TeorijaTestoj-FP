@@ -1,0 +1,1027 @@
+[
+  {
+    "index": 50,
+    "number": 51,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6302",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/16072012 134719 dbda86eb-4474-4ef2-8911-4d5b8c297bd6.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/16072012%20134719%20dbda86eb-4474-4ef2-8911-4d5b8c297bd6.jpg"
+      },
+      {
+        "id": "6303",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/16072012 134719 e8e2d41e-5df5-42cf-a88f-e092d7309751.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/16072012%20134719%20e8e2d41e-5df5-42cf-a88f-e092d7309751.jpg"
+      },
+      {
+        "id": "6304",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/16072012 134720 313b92d6-a9be-4251-80ee-9b51b050fee6.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/16072012%20134720%20313b92d6-a9be-4251-80ee-9b51b050fee6.jpg"
+      }
+    ],
+    "correct": [
+      "6303"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 51,
+    "number": 52,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за изречни наредби-забрана односно ограничување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6305",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132426 bfca208f-a7c8-4d21-b054-87ee326c58ef.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132426%20bfca208f-a7c8-4d21-b054-87ee326c58ef.jpg"
+      },
+      {
+        "id": "6306",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132426 abe468ba-7bb7-4b9f-94a7-b3238ae206d3.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132426%20abe468ba-7bb7-4b9f-94a7-b3238ae206d3.jpg"
+      },
+      {
+        "id": "6307",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 132427 2e9b609b-06e9-471a-873e-379e7d7c8d23.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132427%202e9b609b-06e9-471a-873e-379e7d7c8d23.jpg"
+      }
+    ],
+    "correct": [
+      "6307"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 52,
+    "number": 53,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6308",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132629 074eb46b-5614-4fc5-9f74-3196cf9ed529.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132629%20074eb46b-5614-4fc5-9f74-3196cf9ed529.jpg"
+      },
+      {
+        "id": "6309",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 132629 c4b86062-8ee5-4274-b6d1-00c37aac04fb.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132629%20c4b86062-8ee5-4274-b6d1-00c37aac04fb.jpg"
+      },
+      {
+        "id": "6310",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132629 99081c76-425f-4389-a6a1-abdf1e31607d.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132629%2099081c76-425f-4389-a6a1-abdf1e31607d.jpg"
+      }
+    ],
+    "correct": [
+      "6309"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 53,
+    "number": 54,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за изречни наредби-забрана, односно ограничување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6311",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132903 9377b466-7eb4-44cc-8517-98d0e738808b.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132903%209377b466-7eb4-44cc-8517-98d0e738808b.jpg"
+      },
+      {
+        "id": "6312",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132903 9e6e629c-448a-4df2-9d2b-f4980761129e.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132903%209e6e629c-448a-4df2-9d2b-f4980761129e.jpg"
+      },
+      {
+        "id": "6313",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 132903 1f6ef8fe-ed86-4f39-a8ce-2974f939e5ac.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132903%201f6ef8fe-ed86-4f39-a8ce-2974f939e5ac.jpg"
+      }
+    ],
+    "correct": [
+      "6313"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 54,
+    "number": 55,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за известување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6314",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132950 c08e4f7c-220e-4312-9cec-1b982ae6d835.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132950%20c08e4f7c-220e-4312-9cec-1b982ae6d835.jpg"
+      },
+      {
+        "id": "6315",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 132950 b00d9df9-357b-441d-9b4b-3d597c1161f6.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132950%20b00d9df9-357b-441d-9b4b-3d597c1161f6.jpg"
+      },
+      {
+        "id": "6316",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 132950 1e41a77e-6e45-41cb-846e-72e0af1f0cf6.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20132950%201e41a77e-6e45-41cb-846e-72e0af1f0cf6.jpg"
+      }
+    ],
+    "correct": [
+      "6315"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 55,
+    "number": 56,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6317",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 133058 bf1156ad-37c7-44a1-9476-117adeb2bfd6.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133058%20bf1156ad-37c7-44a1-9476-117adeb2bfd6.jpg"
+      },
+      {
+        "id": "6318",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133058 5f370539-09af-44dc-9431-d221cb5e6f3a.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133058%205f370539-09af-44dc-9431-d221cb5e6f3a.jpg"
+      },
+      {
+        "id": "6319",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133058 5f7a144f-87f7-4b65-82c0-ac259589633e.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133058%205f7a144f-87f7-4b65-82c0-ac259589633e.jpg"
+      }
+    ],
+    "correct": [
+      "6317"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 56,
+    "number": 57,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за известување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6320",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133405 f82e8534-0ec1-4dfa-8ba8-952b1c33c945.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133405%20f82e8534-0ec1-4dfa-8ba8-952b1c33c945.jpg"
+      },
+      {
+        "id": "6321",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133405 c07871d0-d3c6-4fbd-8264-430e8456e723.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133405%20c07871d0-d3c6-4fbd-8264-430e8456e723.jpg"
+      },
+      {
+        "id": "6322",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 133405 0fd39e07-8d48-44a4-90ca-b568570c8432.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133405%200fd39e07-8d48-44a4-90ca-b568570c8432.jpg"
+      }
+    ],
+    "correct": [
+      "6322"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 57,
+    "number": 58,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за изречни наредби- обврска:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6323",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 133534 b6680462-b540-4821-bb9c-46fc745078b3.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133534%20b6680462-b540-4821-bb9c-46fc745078b3.jpg"
+      },
+      {
+        "id": "6324",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133534 9e0a226a-13aa-4629-9b6a-96a790c4de41.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133534%209e0a226a-13aa-4629-9b6a-96a790c4de41.jpg"
+      },
+      {
+        "id": "6325",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133534 853d6976-f8ae-474e-bfd6-cecfa4c2bb57.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133534%20853d6976-f8ae-474e-bfd6-cecfa4c2bb57.jpg"
+      }
+    ],
+    "correct": [
+      "6323"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 58,
+    "number": 59,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за изречни наредби-забрана односно ограничување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6326",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 133648 5303343d-c0ee-4a0b-ab84-c6f09f4e89a6.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133648%205303343d-c0ee-4a0b-ab84-c6f09f4e89a6.jpg"
+      },
+      {
+        "id": "6327",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133648 199ea0a7-3762-49b4-a859-39f7deefe8e8.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133648%20199ea0a7-3762-49b4-a859-39f7deefe8e8.jpg"
+      },
+      {
+        "id": "6328",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133648 d7cd1112-7595-4c6f-a7af-ade49fe746c4.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133648%20d7cd1112-7595-4c6f-a7af-ade49fe746c4.jpg"
+      }
+    ],
+    "correct": [
+      "6326"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 59,
+    "number": 60,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6329",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/19072012 133729 a4dd56cb-6183-499f-9098-7437b7300e5f.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133729%20a4dd56cb-6183-499f-9098-7437b7300e5f.jpg"
+      },
+      {
+        "id": "6330",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133729 bb520746-31b7-4ada-ba9a-e7ed0334960c.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133729%20bb520746-31b7-4ada-ba9a-e7ed0334960c.jpg"
+      },
+      {
+        "id": "6331",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/19072012 133729 74f79d0d-1e25-41c9-8be4-8489c55ea99d.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/19072012%20133729%2074f79d0d-1e25-41c9-8be4-8489c55ea99d.jpg"
+      }
+    ],
+    "correct": [
+      "6329"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 60,
+    "number": 61,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6332",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 082540 5add00c2-e7a8-41f0-b405-fa8424300bf4.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082540%205add00c2-e7a8-41f0-b405-fa8424300bf4.jpg"
+      },
+      {
+        "id": "6333",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 082540 4f68d6d4-42b9-489d-bf86-0cdaf648c7f8.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082540%204f68d6d4-42b9-489d-bf86-0cdaf648c7f8.jpg"
+      },
+      {
+        "id": "6334",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 082540 47284766-d394-49da-aef3-b3fff4ae03e5.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082540%2047284766-d394-49da-aef3-b3fff4ae03e5.jpg"
+      }
+    ],
+    "correct": [
+      "6334"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 61,
+    "number": 62,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за изречни наредби-забрана односно oграничување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6335",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 082720 25eab92c-958d-4283-9b24-30d229edc967.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082720%2025eab92c-958d-4283-9b24-30d229edc967.jpg"
+      },
+      {
+        "id": "6336",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 082721 feae69af-d81a-4f5f-9640-ae8452cee8f8.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082721%20feae69af-d81a-4f5f-9640-ae8452cee8f8.jpg"
+      },
+      {
+        "id": "6337",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 082721 85aaa08d-de1f-4b6d-8f5b-a64568f9bdff.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082721%2085aaa08d-de1f-4b6d-8f5b-a64568f9bdff.jpg"
+      }
+    ],
+    "correct": [
+      "6336"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 62,
+    "number": 63,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6338",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 082931 222da10f-6405-489a-be6f-dae17b68680d.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082931%20222da10f-6405-489a-be6f-dae17b68680d.jpg"
+      },
+      {
+        "id": "6339",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 082932 6fd537e9-dd0d-4874-a0a5-0973151d74d4.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082932%206fd537e9-dd0d-4874-a0a5-0973151d74d4.jpg"
+      },
+      {
+        "id": "6340",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 082932 f9b62a85-2c89-4a47-beb5-d00bc87f5fc7.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20082932%20f9b62a85-2c89-4a47-beb5-d00bc87f5fc7.jpg"
+      }
+    ],
+    "correct": [
+      "6340"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 63,
+    "number": 64,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за изречни наредби-забрана односно oграничување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6341",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 083312 e5e3f374-6125-4593-845d-0fadde3646ae.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20083312%20e5e3f374-6125-4593-845d-0fadde3646ae.jpg"
+      },
+      {
+        "id": "6342",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 083312 fb658600-35cc-4d4d-8f3f-4ee722a8f290.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20083312%20fb658600-35cc-4d4d-8f3f-4ee722a8f290.jpg"
+      },
+      {
+        "id": "6343",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 083312 da417eb8-08a4-4c1b-9fa6-38e99f9ef70f.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20083312%20da417eb8-08a4-4c1b-9fa6-38e99f9ef70f.jpg"
+      }
+    ],
+    "correct": [
+      "6342"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 64,
+    "number": 65,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за известување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6344",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 084459 bb6a3244-10ba-4cb1-835f-2b68c5bf53f9.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084459%20bb6a3244-10ba-4cb1-835f-2b68c5bf53f9.jpg"
+      },
+      {
+        "id": "6345",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 084459 12ae01e2-bb35-4933-b484-fdf86915264e.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084459%2012ae01e2-bb35-4933-b484-fdf86915264e.jpg"
+      },
+      {
+        "id": "6346",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 084459 f5c2f593-8549-494e-9c01-25440127c1dc.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084459%20f5c2f593-8549-494e-9c01-25440127c1dc.jpg"
+      }
+    ],
+    "correct": [
+      "6346"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 65,
+    "number": 66,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6347",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 084815 91a28138-f96e-4993-a34c-d1e7ae86930e.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084815%2091a28138-f96e-4993-a34c-d1e7ae86930e.jpg"
+      },
+      {
+        "id": "6348",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 084815 1b49676c-6fcb-4bef-a5b2-1e015f0753d1.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084815%201b49676c-6fcb-4bef-a5b2-1e015f0753d1.jpg"
+      },
+      {
+        "id": "6349",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 084815 fb851630-43e9-49e3-a224-3b1d69cd31c9.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084815%20fb851630-43e9-49e3-a224-3b1d69cd31c9.jpg"
+      }
+    ],
+    "correct": [
+      "6348"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 66,
+    "number": 67,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за известување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6350",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 084859 600322a6-47ba-4d02-b046-ebdf46124c90.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084859%20600322a6-47ba-4d02-b046-ebdf46124c90.jpg"
+      },
+      {
+        "id": "6351",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 084859 764c08e6-94e1-4b53-ae17-8c80f5a7e12c.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084859%20764c08e6-94e1-4b53-ae17-8c80f5a7e12c.jpg"
+      },
+      {
+        "id": "6352",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 084859 16e7922f-714d-4a5d-984f-3b63086b5ffc.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20084859%2016e7922f-714d-4a5d-984f-3b63086b5ffc.jpg"
+      }
+    ],
+    "correct": [
+      "6352"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 67,
+    "number": 68,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за изречни наредби-обврска:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6353",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 085040 013df806-327d-4113-b2c8-f76707fe4e67.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085040%20013df806-327d-4113-b2c8-f76707fe4e67.jpg"
+      },
+      {
+        "id": "6354",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 085040 946f6d34-1b7c-4fae-b3f7-832940375cdd.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085040%20946f6d34-1b7c-4fae-b3f7-832940375cdd.jpg"
+      },
+      {
+        "id": "6355",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 085040 d11fd983-cc9b-4864-be71-de4505a4659b.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085040%20d11fd983-cc9b-4864-be71-de4505a4659b.jpg"
+      }
+    ],
+    "correct": [
+      "6353"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 68,
+    "number": 69,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за изречни наредби-забрана односно oграничување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6356",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 085216 dc3092c5-5939-42ed-a0a5-b2cb66f30f30.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085216%20dc3092c5-5939-42ed-a0a5-b2cb66f30f30.jpg"
+      },
+      {
+        "id": "6357",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 085216 7650d709-0c37-4749-8f93-8c2d6214619a.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085216%207650d709-0c37-4749-8f93-8c2d6214619a.jpg"
+      },
+      {
+        "id": "6358",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 085216 e335b87f-a3ae-458c-b80a-e032e2566983.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085216%20e335b87f-a3ae-458c-b80a-e032e2566983.jpg"
+      }
+    ],
+    "correct": [
+      "6357"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 69,
+    "number": 70,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6359",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 085347 49517d7c-d484-455d-8091-133534ef7fc7.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085347%2049517d7c-d484-455d-8091-133534ef7fc7.jpg"
+      },
+      {
+        "id": "6360",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 085347 31af0fff-45d9-4667-bb4b-3f3bf8cce978.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085347%2031af0fff-45d9-4667-bb4b-3f3bf8cce978.jpg"
+      },
+      {
+        "id": "6361",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 085347 92fd678a-54a8-428f-9f82-dcb520fd364c.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20085347%2092fd678a-54a8-428f-9f82-dcb520fd364c.jpg"
+      }
+    ],
+    "correct": [
+      "6360"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 70,
+    "number": 71,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за изречни наредби-забрана односно oграничување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6362",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090156 5fc58558-9584-418a-83fa-d49aa6e1f4a2.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090156%205fc58558-9584-418a-83fa-d49aa6e1f4a2.jpg"
+      },
+      {
+        "id": "6363",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090156 a41d96b4-6bb8-4b8a-b8aa-28307598bf9b.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090156%20a41d96b4-6bb8-4b8a-b8aa-28307598bf9b.jpg"
+      },
+      {
+        "id": "6364",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 090156 3359cdf0-4d9a-4795-8cd7-da9f89cb8f00.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090156%203359cdf0-4d9a-4795-8cd7-da9f89cb8f00.jpg"
+      }
+    ],
+    "correct": [
+      "6364"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 71,
+    "number": 72,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за известување:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6365",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090347 8bebdaf0-4f7c-450a-bcd4-f24541c3bdb2.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090347%208bebdaf0-4f7c-450a-bcd4-f24541c3bdb2.jpg"
+      },
+      {
+        "id": "6366",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 090347 5331128c-7c3d-4c80-8496-5c0f7851e69b.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090347%205331128c-7c3d-4c80-8496-5c0f7851e69b.jpg"
+      },
+      {
+        "id": "6367",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090347 45897e0a-14d9-469a-96d6-e09c7d6cda98.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090347%2045897e0a-14d9-469a-96d6-e09c7d6cda98.jpg"
+      }
+    ],
+    "correct": [
+      "6366"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 72,
+    "number": 73,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6368",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 090620 f4b2e513-a848-40d5-9e43-0b9cdbded12a.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090620%20f4b2e513-a848-40d5-9e43-0b9cdbded12a.jpg"
+      },
+      {
+        "id": "6369",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090620 22305c5f-b1a8-45c0-a334-6a397a49719d.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090620%2022305c5f-b1a8-45c0-a334-6a397a49719d.jpg"
+      },
+      {
+        "id": "6370",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090620 3db3cb4e-45db-4ec9-94d2-7453d965f52a.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090620%203db3cb4e-45db-4ec9-94d2-7453d965f52a.jpg"
+      }
+    ],
+    "correct": [
+      "6368"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 73,
+    "number": 74,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за изречни наредби-обврска:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6371",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090803 2143fd1a-a8a2-4701-87de-469ece4b9bba.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090803%202143fd1a-a8a2-4701-87de-469ece4b9bba.jpg"
+      },
+      {
+        "id": "6372",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 090803 8d1617ba-3889-4f1e-b866-f9169198ab33.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090803%208d1617ba-3889-4f1e-b866-f9169198ab33.jpg"
+      },
+      {
+        "id": "6373",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090803 311b30a2-f52d-45c5-a96e-16fe65b7bbfb.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090803%20311b30a2-f52d-45c5-a96e-16fe65b7bbfb.jpg"
+      }
+    ],
+    "correct": [
+      "6372"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  },
+  {
+    "index": 74,
+    "number": 75,
+    "categories": [
+      "А",
+      "A1",
+      "Б"
+    ],
+    "question": "Кој сообраќаен  знак припаѓа на групата знаци за опасност:",
+    "image": null,
+    "type": "multiple",
+    "answers": [
+      {
+        "id": "6374",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090856 6da9b008-1174-4f8d-b2d2-cad6be25e3e3.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090856%206da9b008-1174-4f8d-b2d2-cad6be25e3e3.jpg"
+      },
+      {
+        "id": "6375",
+        "text": "",
+        "correct": false,
+        "image": "assets/images/12112012 090856 e461fcf7-6479-4870-b947-9b9b23986732.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090856%20e461fcf7-6479-4870-b947-9b9b23986732.jpg"
+      },
+      {
+        "id": "6376",
+        "text": "",
+        "correct": true,
+        "image": "assets/images/12112012 090856 1799749f-58af-4853-8b1a-c5362cdd5096.jpg",
+        "image_remote": "http://arhiva.mvr.gov.mk/vozacka-testovi/mkd/allquestions-mk.aspx_files/12112012%20090856%201799749f-58af-4853-8b1a-c5362cdd5096.jpg"
+      }
+    ],
+    "correct": [
+      "6376"
+    ],
+    "images": [],
+    "point_value": 2,
+    "topic": "sign-groups"
+  }
+]

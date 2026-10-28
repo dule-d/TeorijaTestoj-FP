@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="mk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="../assets/images/white dk logo.png" />
+    <title>Тест за вежбање - Теорија за возачка</title>
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+    <link rel="stylesheet" href="test.css" />
+  </head>
+  <body class="practice-test-page">
+    <header class="header">
+      <nav class="navbar" aria-label="Главна навигација">
+        <a class="navbar-back" href="../testovi.html" aria-label="Назад на тестови">
+          <span aria-hidden="true">&larr;</span>
+          <span>Назад</span>
+        </a>
+        <h1>DK - Бесплатно знаење за сите ❤️</h1>
+        <div class="navbar-theme">
+          <button class="theme-button" id="themeToggle" type="button" aria-label="Промени тема">
+            <span class="theme-icon" aria-hidden="true"></span>
+            <span class="theme-name"></span>
+          </button>
+        </div>
+      </nav>
+    </header>
+
+    <main class="exam-main">
+      <div id="testStatus" class="test-status" role="status" aria-live="polite">
+        Прашањата се вчитуваат...
+      </div>
+      <section id="exam" class="exam" aria-label="Тест со 31 прашање" hidden>
+        <div class="exam-meta">
+          <div class="exam-category">Кат. Б <span id="testVariation">Варијација 01</span></div>
+          <div id="questionProgress" class="exam-progress">Прашање 1 на 31</div>
+          <div id="questionPoints" class="exam-points">0 поени</div>
+        </div>
+        <section id="questionPanel" class="question-panel" aria-live="polite" tabindex="-1"></section>
+        <div id="resultPanel" class="result-panel" role="status" hidden></div>
+        <nav class="exam-navigation" aria-label="Навигација низ прашањата">
+          <div id="questionNumbers" class="question-numbers"></div>
+          <div class="exam-actions">
+            <button id="previousQuestion" class="exam-button exam-button-muted" type="button">Претходно</button>
+            <button id="nextQuestion" class="exam-button" type="button">Следно</button>
+            <button id="finishTest" class="exam-button exam-button-finish" type="button">Заврши тест</button>
+          </div>
+        </nav>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-logo">
+        <img src="../assets/images/white dk logo.png" alt="DK" />
+      </div>
+      <p class="footer-message">Бесплатно знаење за сите БЕЗ ДА СЕ ПЛАЌА</p>
+      <a class="footer-github" href="https://github.com/dule-d" target="_blank" rel="noopener noreferrer">
+        <img src="../assets/images/github-logo.png" alt="" />
+        <span>GitHub</span>
+      </a>
+    </footer>
+    <script src="../assets/js/site.js" defer></script>
+    <script src="themes.js" defer></script>
+    <script src="test.js" defer></script>
+  </body>
+</html>
